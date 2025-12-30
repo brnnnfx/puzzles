@@ -1,17 +1,35 @@
-Flagdoku 🏁 (https://flagdoku.com/) is a game
+Flagdoku 🏁 (https://flagdoku.com/) is a daily puzzle game where players identify flags based on clues. Each day features a new 9x9 grid with clues like flag colors, shapes, or hints. Players solve it like Sudoku, filling in the flags in the grid cells. It’s a fun, educational challenge for geography and flag nerds like me.
 
 Table of contents
 
 <!-- Links to these sections -->
 - [My stats](#my-stats)
+  - [Flagdoku # 663](#flagdoku--663)
   - [Flagdoku # 662](#flagdoku--662)
+  - [Flagdoku # 661](#flagdoku--661)
+  - [Flagdoku # 660](#flagdoku--660)
   - [Flagdoku # 1](#flagdoku--1)
 - [How I use Gen AI](#how-i-use-gen-ai)
 - [Notes \& disclaimers](#notes--disclaimers)
 
 ## My stats
 - My Average 9 / 9
-- Completed Puzzles:  2 / 564
+- Completed Puzzles:  5 / 663
+- Flag of the day found: 4 / 663
+
+----------------------------
+
+### Flagdoku # 663
+
+| # 663           | 4 colours               | Language: Arabic             | Bands only |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Name has 'U'    | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Kuwait 🇰🇼 </span>| <span style="background-color: #FFE143"> United Arab Emirates 🇦🇪 ⭐️ </span> |
+| Name has 'A'.   | <span style="background-color: #AADFA5"> Jordan 🇯🇴 </span> | <span style="background-color: #AADFA5"> Oman 🇴🇲 </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> |
+| Name has 'E'    | <span style="background-color: #AADFA5"> Palestine 🇵🇸 </span> | <span style="background-color: #AADFA5"> Egypt 🇪🇬 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day?: Yes
+- Difficulty: Medium
 
 ----------------------------
 
@@ -19,13 +37,41 @@ Table of contents
 
 | # 662                | Black               | Red             | Yellow |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Triangle, 3 Bands    | <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span> | <span style="background-color: #AADFA5"> Equatorial Guinea 🇬🇶 </span>| <span style="background-color: #FFE143"> Bahamas 🇧🇸 </span> |
+| Triangle, 3 Bands    | <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span> | <span style="background-color: #AADFA5"> Equatorial Guinea 🇬🇶 </span>| <span style="background-color: #FFE143"> Bahamas 🇧🇸 ⭐️ </span> |
 | Triangle at the side | <span style="background-color: #AADFA5"> Zimbabwe 🇿🇼 </span> | <span style="background-color: #AADFA5"> South Sudan 🇸🇸 </span> | <span style="background-color: #AADFA5"> Comoros 🇰🇲 </span> |
 | 3 bands              | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> | <span style="background-color: #AADFA5"> Argentina 🇦🇷 </span> |
 
 - Score: 9/9
 - Found flag of the day?: Yes
 - Difficulty: Medium
+
+----------------------------
+
+### Flagdoku # 661
+
+| # 661               | Red               | Asia             | Centered |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Bordered flag   | <span style="background-color: #AADFA5"> Grenada 🇬🇩 </span> | <span style="background-color: #AADFA5"> Nepal 🇳🇵 </span>| <span style="background-color: #AADFA5"> Guam 🇬🇺 </span> |
+| White inside | <span style="background-color: #AADFA5"> Cambodia 🇰🇭 </span> | <span style="background-color: #AADFA5"> Bhutan 🇧🇹 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> |
+| Green inside              | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> | <span style="background-color: #AADFA5"> Lebanon 🇱🇧 </span> | <span style="background-color: #AADFA5"> Cyprus 🇨🇾 </span> |
+
+- Score: 9/9
+- Found flag of the day?: No
+- Difficulty: Medium
+
+----------------------------
+
+### Flagdoku # 660
+
+| # 660                   | Africa               | Vertical bands             | Horizontal bands |
+| :-----------------------| :---------------: | :---------------: | :----------------: |
+| Name: 5 letters         | <span style="background-color: #FFE143"> Benin 🇧🇯 ⭐️ </span> | <span style="background-color: #AADFA5"> Italy 🇮🇹 </span>| <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span> |
+| Starts with 'B'         | <span style="background-color: #AADFA5"> Burundi 🇧🇮 </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span> | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> |
+| Green-Red-Yellow only   | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
+
+- Score: 9/9
+- Found flag of the day?: Yes
+- Difficulty: Easy
 
 ------------------------------
 
@@ -35,7 +81,7 @@ Table of contents
 | :-----------------| :---------------: | :---------------: | :----------------: |
 | Horizontal bands  | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> | <span style="background-color: #AADFA5"> Ghana 🇬🇭 </span>| <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
 | 3 bands.          | <span style="background-color: #AADFA5"> Colombia 🇨🇴 </span> | <span style="background-color: #AADFA5"> Tajikistan 🇹🇯 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> |
-| Europe.           | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Spain 🇪🇸 </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> |
+| Europe.           | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Spain 🇪🇸 ⭐️ </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> |
 
 - Score: 9/9
 - Found flag of the day?: Yes
