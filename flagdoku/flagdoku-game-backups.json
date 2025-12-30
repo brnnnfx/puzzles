@@ -1,5 +1,17 @@
 [
   {
+    "order": "663",
+    "row1col1": { "name": "Guinea-Bissau", "status": "w" },
+    "row1col2": { "name": "Kuwait", "status": "w" },
+    "row1col3": { "name": "United Arab Emirates", "status": "w" },
+    "row2col1": { "name": "Jordan", "status": "w" },
+    "row2col2": { "name": "Oman", "status": "w" },
+    "row2col3": { "name": "Ukraine", "status": "w" },
+    "row3col1": { "name": "Palestine", "status": "w" },
+    "row3col2": { "name": "Egypt", "status": "w" },
+    "row3col3": { "name": "Estonia", "status": "w" }
+  },
+  {
     "order": "662",
     "row1col1": { "name": "Sudan", "status": "w" },
     "row1col2": { "name": "Equatorial Guinea", "status": "w" },
@@ -11,7 +23,31 @@
     "row3col2": { "name": "Estonia", "status": "w" },
     "row3col3": { "name": "Argentina", "status": "w" }
   },
-    {
+  {
+    "order": "661",
+    "row1col1": { "name": "Grenada", "status": "w" },
+    "row1col2": { "name": "Nepal", "status": "w" },
+    "row1col3": { "name": "Guam", "status": "w" },
+    "row2col1": { "name": "Cambodia", "status": "w" },
+    "row2col2": { "name": "Bhutan", "status": "w" },
+    "row2col3": { "name": "Laos", "status": "w" },
+    "row3col1": { "name": "Belize", "status": "w" },
+    "row3col2": { "name": "Lebanon", "status": "w" },
+    "row3col3": { "name": "Cyprus", "status": "w" }
+  },
+  {
+    "order": "660",
+    "row1col1": { "name": "Benin", "status": "w" },
+    "row1col2": { "name": "Italy", "status": "w" },
+    "row1col3": { "name": "Sudan", "status": "w" },
+    "row2col1": { "name": "Burundi", "status": "w" },
+    "row2col2": { "name": "Belgium", "status": "w" },
+    "row2col3": { "name": "Bolivia", "status": "w" },
+    "row3col1": { "name": "Burkina Faso", "status": "w" },
+    "row3col2": { "name": "Guinea", "status": "w" },
+    "row3col3": { "name": "Lithuania", "status": "w" }
+  },
+  {
     "order": "1",
     "row1col1": { "name": "Bolivia", "status": "w" },
     "row1col2": { "name": "Ghana", "status": "w" },
@@ -21,6 +57,6 @@
     "row2col3": { "name": "Romania", "status": "w" },
     "row3col1": { "name": "Switzerland", "status": "w" },
     "row3col2": { "name": "Spain", "status": "w" },
-    "row3col3": { "name": "Moldova",  "status": "w" }
+    "row3col3": { "name": "Moldova", "status": "w" }
   }
 ]
