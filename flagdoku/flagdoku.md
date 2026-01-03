@@ -4,6 +4,9 @@ Table of contents
 
 <!-- Links to these sections -->
 - [My stats](#my-stats)
+  - [Flagdoku # 667](#flagdoku--667)
+  - [Flagdoku # 666](#flagdoku--666)
+  - [Flagdoku # 665](#flagdoku--665)
   - [Flagdoku # 663](#flagdoku--663)
   - [Flagdoku # 662](#flagdoku--662)
   - [Flagdoku # 661](#flagdoku--661)
@@ -14,8 +17,50 @@ Table of contents
 
 ## My stats
 - My Average 9 / 9
-- Completed Puzzles:  5 / 663
-- Flag of the day found: 4 / 663
+- Completed Puzzles:  8 / 667
+- Flag of the day found: 7 / 667
+
+----------------------------
+
+### Flagdoku # 667
+
+| # 667           | Moon               | Star colour: Yellow           | All bands: Horizontal |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Africa    | <span style="background-color: #AADFA5"> Tunisia - 🇹🇳 </span> | <span style="background-color: #FFE143"> Mauritania - 🇲🇷 ⭐️ </span>| <span style="background-color: #AADFA5"> Botswana - 🇧🇼 </span> |
+| 3 bands   | <span style="background-color: #AADFA5"> Libya - 🇱🇾 </span> | <span style="background-color: #AADFA5"> Moldova - 🇲🇩 </span> | <span style="background-color: #AADFA5"> Austria - 🇦🇹 </span> |
+| Green, Red    | <span style="background-color: #AADFA5"> Maldives - 🇲🇻 </span> | <span style="background-color: #AADFA5"> Burkina Faso - 🇧🇫 </span> | <span style="background-color: #AADFA5"> Suriname - 🇸🇷 </span> |
+
+- Score: 9/9
+- Found flag of the day?: Yes
+- Difficulty: Medium
+
+----------------------------
+
+### Flagdoku # 666
+
+| # 666           | Yellow               | Black, White           | Asia |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Name: 6 letters  | <span style="background-color: #AADFA5"> Angola - 🇦🇴 </span> | <span style="background-color: #AADFA5"> Mexico - 🇲🇽 </span>| <span style="background-color: #AADFA5"> Taiwan 🇹🇼 </span> |
+| Name: 6 letters  | <span style="background-color: #AADFA5"> Brazil - 🇧🇷 </span> | <span style="background-color: #AADFA5"> Jordan - 🇯🇴 </span> | <span style="background-color: #AADFA5"> Bhutan - 🇧🇹 </span> |
+| Name: 6 letters  | <span style="background-color: #AADFA5"> Guinea - 🇬🇳 </span> | <span style="background-color: #FFE143"> Brunei - 🇧🇳 ⭐️ </span> | <span style="background-color: #AADFA5"> Kuwait - 🇰🇼 </span> |
+
+- Score: 9/9
+- Found flag of the day?: Yes
+- Difficulty: Easy
+
+----------------------------
+
+### Flagdoku # 665
+
+| # 665           | Horizontal bands               | Animal           | Blue, red |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Name has 'K'    | <span style="background-color: #AADFA5"> Tajikistan - 🇹🇯 </span> | <span style="background-color: #FFE143"> Kazakhstan - 🇰🇿 </span>| <span style="background-color: #AADFA5"> Uzbekistan - 🇺🇿 </span> |
+| Sun   | <span style="background-color: #AADFA5"> Uruguay - 🇺🇾 </span> | <span style="background-color: #AADFA5"> Ecuador - 🇪🇨 </span> | <span style="background-color: #FFE143"> Kiribati - 🇰🇮 ⭐️ </span> |
+| Oceania   | <span style="background-color: #AADFA5"> Nauru - 🇳🇷 </span> | <span style="background-color: #AADFA5"> American Samoa - 🇦🇸 </span> | <span style="background-color: #AADFA5"> Samoa - 🇼🇸 </span> |
+
+- Score: 9/9
+- Found flag of the day?: Yes
+- Difficulty: Medium
 
 ----------------------------
 
@@ -24,7 +69,7 @@ Table of contents
 | # 663           | 4 colours               | Language: Arabic             | Bands only |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Name has 'U'    | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Kuwait 🇰🇼 </span>| <span style="background-color: #FFE143"> United Arab Emirates 🇦🇪 ⭐️ </span> |
-| Name has 'A'.   | <span style="background-color: #AADFA5"> Jordan 🇯🇴 </span> | <span style="background-color: #AADFA5"> Oman 🇴🇲 </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> |
+| Name has 'A'    | <span style="background-color: #AADFA5"> Jordan 🇯🇴 </span> | <span style="background-color: #AADFA5"> Oman 🇴🇲 </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> |
 | Name has 'E'    | <span style="background-color: #AADFA5"> Palestine 🇵🇸 </span> | <span style="background-color: #AADFA5"> Egypt 🇪🇬 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> |
 
 - Score: 9/9
@@ -80,8 +125,8 @@ Table of contents
 | # 1               | Red               | Yellow             | Red, Yellow |
 | :-----------------| :---------------: | :---------------: | :----------------: |
 | Horizontal bands  | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> | <span style="background-color: #AADFA5"> Ghana 🇬🇭 </span>| <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
-| 3 bands.          | <span style="background-color: #AADFA5"> Colombia 🇨🇴 </span> | <span style="background-color: #AADFA5"> Tajikistan 🇹🇯 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> |
-| Europe.           | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Spain 🇪🇸 ⭐️ </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> |
+| 3 bands           | <span style="background-color: #AADFA5"> Colombia 🇨🇴 </span> | <span style="background-color: #AADFA5"> Tajikistan 🇹🇯 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> |
+| Europe            | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Spain 🇪🇸 ⭐️ </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> |
 
 - Score: 9/9
 - Found flag of the day?: Yes
