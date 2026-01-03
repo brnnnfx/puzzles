@@ -1,5 +1,41 @@
 [
   {
+    "order": "667",
+    "row1col1": { "name": "Tunisia", "status": "w" },
+    "row1col2": { "name": "Mauritania", "status": "w" },
+    "row1col3": { "name": "Botswana", "status": "w" },
+    "row2col1": { "name": "Libya", "status": "w" },
+    "row2col2": { "name": "Moldova", "status": "w" },
+    "row2col3": { "name": "Austria", "status": "w" },
+    "row3col1": { "name": "Maldives", "status": "w" },
+    "row3col2": { "name": "Burkina Faso", "status": "w" },
+    "row3col3": { "name": "Suriname", "status": "w" }
+  },
+  {
+    "order": "666",
+    "row1col1": { "name": "Angola", "status": "w" },
+    "row1col2": { "name": "Mexico", "status": "w" },
+    "row1col3": { "name": "Taiwan", "status": "w" },
+    "row2col1": { "name": "Brazil", "status": "w" },
+    "row2col2": { "name": "Jordan", "status": "w" },
+    "row2col3": { "name": "Bhutan", "status": "w" },
+    "row3col1": { "name": "Guinea", "status": "w" },
+    "row3col2": { "name": "Brunei", "status": "w" },
+    "row3col3": { "name": "Kuwait", "status": "w" }
+  },
+  {
+    "order": "665",
+    "row1col1": { "name": "Tajikistan", "status": "w" },
+    "row1col2": { "name": "Kazakhstan", "status": "w" },
+    "row1col3": { "name": "Uzbekistan", "status": "w" },
+    "row2col1": { "name": "Uruguay", "status": "w" },
+    "row2col2": { "name": "Ecuador", "status": "w" },
+    "row2col3": { "name": "Kiribati", "status": "w" },
+    "row3col1": { "name": "Nauru", "status": "w" },
+    "row3col2": { "name": "American Samoa", "status": "w" },
+    "row3col3": { "name": "Samoa", "status": "w" }
+  },
+  {
     "order": "663",
     "row1col1": { "name": "Guinea-Bissau", "status": "w" },
     "row1col2": { "name": "Kuwait", "status": "w" },
