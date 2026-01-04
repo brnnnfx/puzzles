@@ -4,21 +4,41 @@ Table of contents
 
 <!-- Links to these sections -->
 - [My stats](#my-stats)
+- [Games](#games)
+  - [Flagdoku # 668](#flagdoku--668)
   - [Flagdoku # 667](#flagdoku--667)
   - [Flagdoku # 666](#flagdoku--666)
   - [Flagdoku # 665](#flagdoku--665)
+  - [Flagdoku # 664](#flagdoku--664)
   - [Flagdoku # 663](#flagdoku--663)
   - [Flagdoku # 662](#flagdoku--662)
   - [Flagdoku # 661](#flagdoku--661)
   - [Flagdoku # 660](#flagdoku--660)
+  - [Flagdoku # 659](#flagdoku--659)
   - [Flagdoku # 1](#flagdoku--1)
 - [How I use Gen AI](#how-i-use-gen-ai)
 - [Notes \& disclaimers](#notes--disclaimers)
 
 ## My stats
 - My Average 9 / 9
-- Completed Puzzles:  8 / 667
-- Flag of the day found: 7 / 667
+- Completed Puzzles:  11 / 668
+- Flag of the day found: 9 / 668
+
+----------------------------
+
+## Games
+
+### Flagdoku # 668
+
+| # 668           | Blue, red               | Starts with 'S'          | Name has 'm' |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Triangle at the side    | <span style="background-color: #AADFA5"> American Samoa - 🇦🇸 </span> | <span style="background-color: #FFE143"> Sint Maarten - 🇸🇽 ⭐️ </span>| <span style="background-color: #AADFA5"> Mozambique - 🇲🇿 </span> |
+| Language: Dutch   | <span style="background-color: #AADFA5"> Netherlands - 🇳🇱 </span> | <span style="background-color: #AADFA5"> Suriname - 🇸🇷 </span> | <span style="background-color: #AADFA5"> Belgium - 🇧🇪 </span> |
+| North America   | <span style="background-color: #AADFA5"> Dominican Republic - 🇩🇴 </span> | <span style="background-color: #AADFA5"> Saint Kitts and Nevis - 🇰🇳 </span> | <span style="background-color: #AADFA5"> Bermuda - 🇧🇲 </span> |
+
+- Score: 9/9
+- Found flag of the day?: Yes
+- Difficulty: Medium
 
 ----------------------------
 
@@ -54,13 +74,27 @@ Table of contents
 
 | # 665           | Horizontal bands               | Animal           | Blue, red |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Name has 'K'    | <span style="background-color: #AADFA5"> Tajikistan - 🇹🇯 </span> | <span style="background-color: #FFE143"> Kazakhstan - 🇰🇿 </span>| <span style="background-color: #AADFA5"> Uzbekistan - 🇺🇿 </span> |
+| Name has 'K'    | <span style="background-color: #AADFA5"> Tajikistan - 🇹🇯 </span> | <span style="background-color: #AADFA5"> Kazakhstan - 🇰🇿 </span>| <span style="background-color: #AADFA5"> Uzbekistan - 🇺🇿 </span> |
 | Sun   | <span style="background-color: #AADFA5"> Uruguay - 🇺🇾 </span> | <span style="background-color: #AADFA5"> Ecuador - 🇪🇨 </span> | <span style="background-color: #FFE143"> Kiribati - 🇰🇮 ⭐️ </span> |
 | Oceania   | <span style="background-color: #AADFA5"> Nauru - 🇳🇷 </span> | <span style="background-color: #AADFA5"> American Samoa - 🇦🇸 </span> | <span style="background-color: #AADFA5"> Samoa - 🇼🇸 </span> |
 
 - Score: 9/9
 - Found flag of the day?: Yes
 - Difficulty: Medium
+
+----------------------------
+
+### Flagdoku # 664
+
+| # 664           | Nordic cross               | No white           | No red |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Yellow    | <span style="background-color: #FFE143"> Sweden - 🇸🇪 ⭐️ </span> | <span style="background-color: #AADFA5"> Burkina Faso - 🇧🇫 </span>| <span style="background-color: #AADFA5"> Jamaica - 🇯🇲 </span> |
+| Main colour: blue   | <span style="background-color: #AADFA5"> Iceland - 🇮🇸 </span> | <span style="background-color: #AADFA5"> Palau - 🇵🇼 </span> | <span style="background-color: #AADFA5"> Kazakhstan - 🇰🇿 </span> |
+| EU member   | <span style="background-color: #AADFA5"> Denmark - 🇩🇰 </span> | <span style="background-color: #AADFA5"> Romania - 🇷🇴 </span> | <span style="background-color: #AADFA5"> Finland - 🇫🇮 </span> |
+
+- Score: 9/9
+- Found flag of the day?: Yes
+- Difficulty: Easy
 
 ----------------------------
 
@@ -118,6 +152,20 @@ Table of contents
 - Found flag of the day?: Yes
 - Difficulty: Easy
 
+----------------------------
+
+### Flagdoku # 659
+
+| # 659                   | Cross               | No blue             | 2 colours |
+| :-----------------------| :---------------: | :---------------: | :----------------: |
+| Red         | <span style="background-color: #AADFA5"> England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </span> | <span style="background-color: #AADFA5"> Tonga 🇹🇴 </span>| <span style="background-color: #AADFA5"> Bangladesh 🇧🇩 </span> |
+| White         | <span style="background-color: #AADFA5"> Malta 🇲🇹 </span> | <span style="background-color: #AADFA5"> Peru 🇵🇪 </span> | <span style="background-color: #AADFA5"> Denmark 🇩🇰 </span> |
+| Europe   | <span style="background-color: #AADFA5"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </span> | <span style="background-color: #AADFA5"> North Macedonia 🇲🇰 </span> | <span style="background-color: #AADFA5"> Latvia 🇱🇻 </span> |
+
+- Score: 9/9
+- Found flag of the day?: No
+- Difficulty: Easy
+
 ------------------------------
 
 ### Flagdoku # 1
@@ -133,7 +181,6 @@ Table of contents
 - Difficulty: Easy
 
 ------------------------------
-
 
 ## How I use Gen AI
 

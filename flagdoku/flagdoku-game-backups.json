@@ -1,5 +1,17 @@
 [
   {
+    "order": "668",
+    "row1col1": { "name": "American Samoa", "status": "w" },
+    "row1col2": { "name": "Sint Maarten", "status": "w" },
+    "row1col3": { "name": "Mozambique", "status": "w" },
+    "row2col1": { "name": "Netherlands", "status": "w" },
+    "row2col2": { "name": "Suriname", "status": "w" },
+    "row2col3": { "name": "Belgium", "status": "w" },
+    "row3col1": { "name": "Dominican Republic", "status": "w" },
+    "row3col2": { "name": "Saint Kitts and Nevis", "status": "w" },
+    "row3col3": { "name": "Bermuda", "status": "w" }
+  },
+  {
     "order": "667",
     "row1col1": { "name": "Tunisia", "status": "w" },
     "row1col2": { "name": "Mauritania", "status": "w" },
@@ -34,6 +46,18 @@
     "row3col1": { "name": "Nauru", "status": "w" },
     "row3col2": { "name": "American Samoa", "status": "w" },
     "row3col3": { "name": "Samoa", "status": "w" }
+  },
+  {
+    "order": "664",
+    "row1col1": { "name": "Sweden", "status": "w" },
+    "row1col2": { "name": "Burkina Faso", "status": "w" },
+    "row1col3": { "name": "Jamaica", "status": "w" },
+    "row2col1": { "name": "Iceland", "status": "w" },
+    "row2col2": { "name": "Palau", "status": "w" },
+    "row2col3": { "name": "Kazakhstan", "status": "w" },
+    "row3col1": { "name": "Denmark", "status": "w" },
+    "row3col2": { "name": "Romania", "status": "w" },
+    "row3col3": { "name": "Finland", "status": "w" }
   },
   {
     "order": "663",
@@ -82,6 +106,18 @@
     "row3col1": { "name": "Burkina Faso", "status": "w" },
     "row3col2": { "name": "Guinea", "status": "w" },
     "row3col3": { "name": "Lithuania", "status": "w" }
+  },
+  {
+    "order": "659",
+    "row1col1": { "name": "England", "status": "w" },
+    "row1col2": { "name": "Tonga", "status": "w" },
+    "row1col3": { "name": "Bangladesh", "status": "w" },
+    "row2col1": { "name": "Malta", "status": "w" },
+    "row2col2": { "name": "Peru", "status": "w" },
+    "row2col3": { "name": "Denmark", "status": "w" },
+    "row3col1": { "name": "Scotland", "status": "w" },
+    "row3col2": { "name": "North Macedonia", "status": "w" },
+    "row3col3": { "name": "Latvia", "status": "w" }
   },
   {
     "order": "1",
