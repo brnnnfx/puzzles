@@ -1,5 +1,17 @@
 [
   {
+    "order": "669",
+    "row1col1": { "name": "[CHI] Hong Kong", "status": "w" },
+    "row1col2": { "name": "Australia", "status": "w" },
+    "row1col3": { "name": "Trinidad and Tobago", "status": "w" },
+    "row2col1": { "name": "Taiwan", "status": "w" },
+    "row2col2": { "name": "[CHI] Macau", "status": "w" },
+    "row2col3": { "name": "Singapore", "status": "w" },
+    "row3col1": { "name": "Belize", "status": "w" },
+    "row3col2": { "name": "Lebanon", "status": "w" },
+    "row3col3": { "name": "Canada", "status": "w" }
+  },
+  {
     "order": "668",
     "row1col1": { "name": "American Samoa", "status": "w" },
     "row1col2": { "name": "Sint Maarten", "status": "w" },
