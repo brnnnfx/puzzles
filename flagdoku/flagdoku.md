@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 670](#flagdoku--670)
   - [Flagdoku # 669](#flagdoku--669)
   - [Flagdoku # 668](#flagdoku--668)
   - [Flagdoku # 667](#flagdoku--667)
@@ -22,12 +23,24 @@ Table of contents
 
 ## My stats
 - My Average 9 / 9
-- Completed Puzzles:  12 / 669
-- Flag of the day found: 10 / 669
+- Completed Puzzles:  13 / 670
+- Flag of the day found: 11 / 670
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 670
+
+| # 670           | Top 30: Oil            | 4 colours         | Star colour: white |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| South America    | <span style="background-color: #FFE143"> Venezuela 🇻🇪 ⭐️ </span> | <span style="background-color: #AADFA5"> Suriname 🇸🇷 </span>| <span style="background-color: #AADFA5"> Chile 🇨🇱 </span> |
+| 3 or more stars   | <span style="background-color: #AADFA5"> Brazil 🇧🇷 </span> | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> | <span style="background-color: #AADFA5"> Australia 🇦🇺 </span> |
+| 3 bands   | <span style="background-color: #AADFA5"> Canada 🇨🇦 </span> | <span style="background-color: #AADFA5"> Ethiopia 🇪🇹 </span> | <span style="background-color: #AADFA5"> Libya 🇱🇾 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 669
 
@@ -38,7 +51,7 @@ Table of contents
 | Plant   | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> | <span style="background-color: #AADFA5"> Lebanon 🇱🇧 </span> | <span style="background-color: #AADFA5"> Canada 🇨🇦 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ### Flagdoku # 668
@@ -50,7 +63,7 @@ Table of contents
 | North America   | <span style="background-color: #AADFA5"> Dominican Republic 🇩🇴 </span> | <span style="background-color: #AADFA5"> Saint Kitts and Nevis 🇰🇳 </span> | <span style="background-color: #AADFA5"> Bermuda 🇧🇲 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ----------------------------
@@ -64,7 +77,7 @@ Table of contents
 | Green, Red    | <span style="background-color: #AADFA5"> Maldives 🇲🇻 </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> | <span style="background-color: #AADFA5"> Suriname 🇸🇷 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ----------------------------
@@ -78,7 +91,7 @@ Table of contents
 | Name: 6 letters  | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #FFE143"> Brunei 🇧🇳 ⭐️ </span> | <span style="background-color: #AADFA5"> Kuwait 🇰🇼 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Easy
 
 ----------------------------
@@ -92,7 +105,7 @@ Table of contents
 | Oceania   | <span style="background-color: #AADFA5"> Nauru 🇳🇷 </span> | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span> | <span style="background-color: #AADFA5"> Samoa 🇼🇸 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ----------------------------
@@ -106,7 +119,7 @@ Table of contents
 | EU member   | <span style="background-color: #AADFA5"> Denmark 🇩🇰 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Finland 🇫🇮 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Easy
 
 ----------------------------
@@ -120,7 +133,7 @@ Table of contents
 | Name has 'E'    | <span style="background-color: #AADFA5"> Palestine 🇵🇸 </span> | <span style="background-color: #AADFA5"> Egypt 🇪🇬 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ----------------------------
@@ -134,7 +147,7 @@ Table of contents
 | 3 bands              | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> | <span style="background-color: #AADFA5"> Argentina 🇦🇷 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ----------------------------
@@ -148,7 +161,7 @@ Table of contents
 | Green inside              | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> | <span style="background-color: #AADFA5"> Lebanon 🇱🇧 </span> | <span style="background-color: #AADFA5"> Cyprus 🇨🇾 </span> |
 
 - Score: 9/9
-- Found flag of the day?: No
+- Found flag of the day (⭐️)?: No
 - Difficulty: Medium
 
 ----------------------------
@@ -162,7 +175,7 @@ Table of contents
 | Green-Red-Yellow only   | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Easy
 
 ----------------------------
@@ -176,7 +189,7 @@ Table of contents
 | Europe   | <span style="background-color: #AADFA5"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </span> | <span style="background-color: #AADFA5"> North Macedonia 🇲🇰 </span> | <span style="background-color: #AADFA5"> Latvia 🇱🇻 </span> |
 
 - Score: 9/9
-- Found flag of the day?: No
+- Found flag of the day (⭐️)?: No
 - Difficulty: Easy
 
 ------------------------------
@@ -190,7 +203,7 @@ Table of contents
 | Europe            | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Spain 🇪🇸 ⭐️ </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> |
 
 - Score: 9/9
-- Found flag of the day?: Yes
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Easy
 
 ------------------------------
