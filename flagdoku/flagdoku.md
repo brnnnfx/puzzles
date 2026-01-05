@@ -6,7 +6,6 @@ Table of contents
 - [My stats](#my-stats)
 - [Games](#games)
   - [Flagdoku # 669](#flagdoku--669)
-- [Games](#games-1)
   - [Flagdoku # 668](#flagdoku--668)
   - [Flagdoku # 667](#flagdoku--667)
   - [Flagdoku # 666](#flagdoku--666)
@@ -41,10 +40,6 @@ Table of contents
 - Score: 9/9
 - Found flag of the day?: Yes
 - Difficulty: Medium
-
-----------------------------
-
-## Games
 
 ### Flagdoku # 668
 
