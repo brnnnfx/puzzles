@@ -5,9 +5,9 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
-  - [Flagdoku # 668](#flagdoku--668)
+  - [Flagdoku # 669](#flagdoku--669)
 - [Games](#games-1)
-  - [Flagdoku # 668](#flagdoku--668-1)
+  - [Flagdoku # 668](#flagdoku--668)
   - [Flagdoku # 667](#flagdoku--667)
   - [Flagdoku # 666](#flagdoku--666)
   - [Flagdoku # 665](#flagdoku--665)
@@ -24,15 +24,15 @@ Table of contents
 ## My stats
 - My Average 9 / 9
 - Completed Puzzles:  12 / 669
-- Flag of the day found: 10 / 668
+- Flag of the day found: 10 / 669
 
 ----------------------------
 
 ## Games
 
-### Flagdoku # 668
+### Flagdoku # 669
 
-| # 668           | Red               | White         | No yellow |
+| # 669           | Red               | White         | No yellow |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Currency: Dollar    | <span style="background-color: #FFE143"> Hong Kong 🇭🇰 ⭐️ </span> | <span style="background-color: #AADFA5"> Australia 🇦🇺  </span>| <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹 </span> |
 | Language: Chinese   | <span style="background-color: #AADFA5"> Taiwan 🇹🇼 </span> | <span style="background-color: #AADFA5"> Macau 🇲🇴 </span> | <span style="background-color: #AADFA5"> Singapore 🇸🇬 </span> |
