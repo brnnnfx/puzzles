@@ -1,5 +1,77 @@
 [
   {
+    "order": "676",
+    "row1col1": { "name": "Iran", "status": "w" },
+    "row1col2": { "name": "Sudan", "status": "w" },
+    "row1col3": { "name": "Bolivia", "status": "w" },
+    "row2col1": { "name": "Italy", "status": "w" },
+    "row2col2": { "name": "Japan", "status": "w" },
+    "row2col3": { "name": "French Guiana", "status": "w" },
+    "row3col1": { "name": "Jordan", "status": "w" },
+    "row3col2": { "name": "Myanmar", "status": "w" },
+    "row3col3": { "name": "Hungary", "status": "w" }
+  },
+  {
+    "order": "675",
+    "row1col1": { "name": "[GBR] Great Britain (1606-1801)", "status": "w" },
+    "row1col2": { "name": "[BES] Netherlands Antilles", "status": "w" },
+    "row1col3": { "name": "[BLR] Belarus (1991-1995)", "status": "w" },
+    "row2col1": { "name": "Slovenia", "status": "w" },
+    "row2col2": { "name": "Bosnia and Herzegovina", "status": "w" },
+    "row2col3": { "name": "Serbia", "status": "w" },
+    "row3col1": { "name": "New Zealand", "status": "w" },
+    "row3col2": { "name": "Panama", "status": "w" },
+    "row3col3": { "name": "[SRB] Yugoslavia", "status": "w" }
+  },
+  {
+    "order": "674",
+    "row1col1": { "name": "Bhutan", "status": "w" },
+    "row1col2": { "name": "Sri Lanka", "status": "w" },
+    "row1col3": { "name": "Zambia", "status": "w" },
+    "row2col1": { "name": "Myanmar", "status": "w" },
+    "row2col2": { "name": "South Sudan", "status": "w" },
+    "row2col3": { "name": "Palestine", "status": "w" },
+    "row3col1": { "name": "Vietnam", "status": "w" },
+    "row3col2": { "name": "Timor-Leste", "status": "w" },
+    "row3col3": { "name": "Guyana", "status": "w" }
+  },
+  {
+    "order": "673",
+    "row1col1": { "name": "Mauritius", "status": "w" },
+    "row1col2": { "name": "Sudan", "status": "w" },
+    "row1col3": { "name": "South Africa", "status": "w" },
+    "row2col1": { "name": "Bangladesh", "status": "w" },
+    "row2col2": { "name": "Nigeria", "status": "w" },
+    "row2col3": { "name": "Norfolk Island", "status": "w" },
+    "row3col1": { "name": "Sierra Leone", "status": "w" },
+    "row3col2": { "name": "Latvia", "status": "w" },
+    "row3col3": { "name": "Niger", "status": "w" }
+  },
+  {
+    "order": "672",
+    "row1col1": { "name": "Sierra Leone", "status": "w" },
+    "row1col2": { "name": "Romania", "status": "w" },
+    "row1col3": { "name": "Armenia", "status": "w" },
+    "row2col1": { "name": "Myanmar", "status": "w" },
+    "row2col2": { "name": "Andorra", "status": "w" },
+    "row2col3": { "name": "Ukraine", "status": "w" },
+    "row3col1": { "name": "Tajikistan", "status": "w" },
+    "row3col2": { "name": "Moldova", "status": "w" },
+    "row3col3": { "name": "Russia", "status": "w" }
+  },
+  {
+    "order": "671",
+    "row1col1": { "name": "Luxembourg", "status": "w" },
+    "row1col2": { "name": "Thailand", "status": "w" },
+    "row1col3": { "name": "Netherlands", "status": "w" },
+    "row2col1": { "name": "Laos", "status": "w" },
+    "row2col2": { "name": "Japan", "status": "w" },
+    "row2col3": { "name": "Israel", "status": "w" },
+    "row3col1": { "name": "Costa Rica", "status": "w" },
+    "row3col2": { "name": "Uzbekistan", "status": "w" },
+    "row3col3": { "name": "Mauritius", "status": "w" }
+  },
+  {
     "order": "670",
     "row1col1": { "name": "Venezuela", "status": "w" },
     "row1col2": { "name": "Suriname", "status": "w" },
