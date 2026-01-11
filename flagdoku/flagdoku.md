@@ -5,6 +5,12 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 676](#flagdoku--676)
+  - [Flagdoku # 675](#flagdoku--675)
+  - [Flagdoku # 674](#flagdoku--674)
+  - [Flagdoku # 673](#flagdoku--673)
+  - [Flagdoku # 672](#flagdoku--672)
+  - [Flagdoku # 671](#flagdoku--671)
   - [Flagdoku # 670](#flagdoku--670)
   - [Flagdoku # 669](#flagdoku--669)
   - [Flagdoku # 668](#flagdoku--668)
@@ -23,12 +29,84 @@ Table of contents
 
 ## My stats
 - My Average 9 / 9
-- Completed Puzzles:  13 / 670
-- Flag of the day found: 11 / 670
+- Completed Puzzles:  18 / 676
+- Flag of the day found: 16 / 676
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 676
+
+| # 676         | Green, White          | White, Red        | Green, red |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Green (<35%)   | <span style="background-color: #AADFA5"> Iran 🇮🇷 </span> | <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span>| <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> |
+| Red (<35%) | <span style="background-color: #FFE143"> Italy 🇮🇹 ⭐️ </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> | <span style="background-color: #AADFA5"> French Guiana 🇬🇫 </span> |
+| White (<35%) | <span style="background-color: #AADFA5"> Jordan 🇯🇴 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲</span> | <span style="background-color: #AADFA5"> Hungary 🇭🇺 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
+
+### Flagdoku # 675
+
+| # 675         | Blue          | White         | Horizontal bands |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Historical flag   | <span style="background-color: #AADFA5"> Great Britain (1606-1801) </span> | <span style="background-color: #AADFA5"> Netherlands Antilles </span>| <span style="background-color: #AADFA5"> Belarus (1991-1995) </span> |
+| Country: Balkan | <span style="background-color: #AADFA5"> Slovenia 🇸🇮 </span> | <span style="background-color: #AADFA5"> Bosnia and Herzegovina 🇧🇦 </span> | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> |
+| Star colour: red | <span style="background-color: #AADFA5"> New Zealand 🇳🇿 </span> | <span style="background-color: #AADFA5"> Panama 🇵🇦 </span> | <span style="background-color: #FFE143"> Yugoslavia ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
+
+### Flagdoku # 674
+
+| # 674         | Asia          | Items not centered         | Black |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Animal, orange    | <span style="background-color: #AADFA5"> Bhutan 🇧🇹 </span> | <span style="background-color: #FFE143"> Sri Lanka 🇱🇰 ⭐️ </span>| <span style="background-color: #AADFA5"> Zambia 🇿🇲 </span> |
+| Green, red | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span> | <span style="background-color: #AADFA5"> South Sudan 🇸🇸 </span> | <span style="background-color: #AADFA5"> Palestine 🇵🇸 </span> |
+| Yellow | <span style="background-color: #AADFA5"> Vietnam 🇻🇳 </span> | <span style="background-color: #AADFA5"> Timor-Leste 🇹🇱 </span> | <span style="background-color: #AADFA5"> Guyana 🇬🇾 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
+
+### Flagdoku # 673
+
+| # 673          |  Green          | Mid band: white         | Green |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Africa    | <span style="background-color: #AADFA5"> 3 bands </span> | <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span>| <span style="background-color: #AADFA5"> South Africa 🇿🇦 </span> |
+| 2 colours | <span style="background-color: #AADFA5"> Bangladesh 🇧🇩 </span> | <span style="background-color: #FFE143"> Nigeria 🇳🇬 ⭐️ </span> | <span style="background-color: #AADFA5"> Norfolk Island 🇳🇫 </span> |
+| 3 bands | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #AADFA5"> Latvia 🇱🇻 </span> | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 672
+
+| # 672          | 3 bands          | All bands: vertical         | European: Non-EU |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Blue    | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span>| <span style="background-color: #AADFA5"> Armenia 🇦🇲 </span> |
+| Yellow | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span> | <span style="background-color: #FFE143"> Andorra 🇦🇩 ⭐️ </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> |
+| Red | <span style="background-color: #AADFA5"> Tajikistan 🇹🇯 </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> | <span style="background-color: #AADFA5"> Russia 🇷🇺 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 671
+
+| # 671           | 3 colours          | Asia         | All bands: Horizontal |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Monarchy    | <span style="background-color: #AADFA5"> Luxembourg 🇱🇺 </span> | <span style="background-color: #FFE143"> Thailand 🇹🇭 ⭐️ </span>| <span style="background-color: #AADFA5"> Netherlands 🇳🇱 </span> |
+| 180° symmetry | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> | <span style="background-color: #AADFA5"> Israel 🇮🇱 </span> |
+| 4 bands or more  | <span style="background-color: #AADFA5"> Costa Rica 🇨🇷 </span> | <span style="background-color: #AADFA5"> Uzbekistan 🇺🇿 </span> | <span style="background-color: #AADFA5"> Mauritius 🇲🇺 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 670
 
