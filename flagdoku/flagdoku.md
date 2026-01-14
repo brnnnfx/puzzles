@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 678](#flagdoku--678)
+  - [Flagdoku # 677](#flagdoku--677)
   - [Flagdoku # 676](#flagdoku--676)
   - [Flagdoku # 675](#flagdoku--675)
   - [Flagdoku # 674](#flagdoku--674)
@@ -29,12 +31,36 @@ Table of contents
 
 ## My stats
 - My Average 9 / 9
-- Completed Puzzles:  18 / 676
-- Flag of the day found: 16 / 676
+- Completed Puzzles:  20 / 678
+- Flag of the day found: 18 / 678
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 678
+
+| # 678         | Green          | Waves, zigzag        | Crown|
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| White   | <span style="background-color: #AADFA5"> Nigeria 🇳🇬 </span> | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span>| <span style="background-color: #AADFA5"> Spain 🇪🇸 </span> |
+| Red  | <span style="background-color: #AADFA5"> Namibia 🇳🇦 </span> | <span style="background-color: #AADFA5"> French Polynesia 🇵🇫 </span> | <span style="background-color: #AADFA5"> Montenegro 🇲🇪 </span> |
+| Blue | <span style="background-color: #AADFA5"> Lesotho 🇱🇸 </span> | <span style="background-color: #AADFA5"> Slovenia 🇸🇮 </span> | <span style="background-color: #AADFA5"> Liechtenstein 🇱🇮 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Hard
+
+### Flagdoku # 677
+
+| # 677         | Asia          | Moon     | White.  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Name ends in -s  | <span style="background-color: #AADFA5"> Philippines 🇵🇭 </span> | <span style="background-color: #AADFA5"> Comoros 🇰🇲 </span>| <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> |
+| Blue, red  | <span style="background-color: #AADFA5"> Cambodia 🇰🇭 </span> | <span style="background-color: #FFE143"> Laos 🇱🇦 ⭐️ </span> | <span style="background-color: #AADFA5"> Haiti 🇭🇹 </span> |
+| 3 colours | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
 
 ### Flagdoku # 676
 
@@ -42,7 +68,7 @@ Table of contents
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Green (<35%)   | <span style="background-color: #AADFA5"> Iran 🇮🇷 </span> | <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span>| <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> |
 | Red (<35%) | <span style="background-color: #FFE143"> Italy 🇮🇹 ⭐️ </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> | <span style="background-color: #AADFA5"> French Guiana 🇬🇫 </span> |
-| White (<35%) | <span style="background-color: #AADFA5"> Jordan 🇯🇴 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲</span> | <span style="background-color: #AADFA5"> Hungary 🇭🇺 </span> |
+| White (<35%) | <span style="background-color: #AADFA5"> Jordan 🇯🇴 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span> | <span style="background-color: #AADFA5"> Hungary 🇭🇺 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
