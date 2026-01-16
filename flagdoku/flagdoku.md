@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 680](#flagdoku--680)
+  - [Flagdoku # 679](#flagdoku--679)
   - [Flagdoku # 678](#flagdoku--678)
   - [Flagdoku # 677](#flagdoku--677)
   - [Flagdoku # 676](#flagdoku--676)
@@ -30,13 +32,37 @@ Table of contents
 - [Notes \& disclaimers](#notes--disclaimers)
 
 ## My stats
-- My Average 9 / 9
-- Completed Puzzles:  20 / 678
-- Flag of the day found: 18 / 678
+- My Average 8 / 9
+- Completed Puzzles:  22 / 680
+- Flag of the day found: 20 / 680
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 680
+
+| # 680         | Africa       | Centered        | Repeated letters   |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| No-touch: Green-red  | <span style="background-color: #AADFA5"> Namibia 🇳🇦 </span> | <span style="background-color: #AADFA5"> Mexico 🇲🇽 </span>| <span style="background-color: #AADFA5"> Gambia 🇬🇲 </span> |
+| Star-colour: Black  | <span style="background-color: #AADFA5"> Sao Tome and Príncipe 🇸🇹 </span> | <span style="background-color: #FFE143"> Ghana 🇬🇭 ⭐️ </span> | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> |
+| Mid-letter 'H' | <span style="background-color: #AADFA5"> Ethiopia 🇪🇹 </span> | <span style="background-color: #B2797A"> Kazakhstan 🇰🇿 </span> | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> |
+
+- Score: 8/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
+
+### Flagdoku # 679
+
+| # 679         | All bands: diagonal          | Green band        | White band   |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Blue band   | <span style="background-color: #FFE143"> Seychelles 🇸🇨 ⭐️ </span> | <span style="background-color: #AADFA5"> Lesotho 🇱🇸 </span>| <span style="background-color: #AADFA5"> Uruguay 🇺🇾 </span> |
+| Yellow band  | <span style="background-color: #AADFA5"> Saint Kitts and Nevis 🇰🇳 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span> | <span style="background-color: #AADFA5"> Vatican City 🇻🇦 </span> |
+| Red band | <span style="background-color: #AADFA5"> Namibia 🇳🇦 </span> | <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> | <span style="background-color: #AADFA5"> Iran 🇮🇷 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
 
 ### Flagdoku # 678
 
