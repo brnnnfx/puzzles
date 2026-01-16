@@ -1,5 +1,29 @@
 [
   {
+    "order": "680",
+    "row1col1": { "name": "Namibia", "status": "w" },
+    "row1col2": { "name": "Mexico", "status": "w" },
+    "row1col3": { "name": "Gambia", "status": "w" },
+    "row2col1": { "name": "Sao Tome and Príncipe", "status": "w" },
+    "row2col2": { "name": "Ghana", "status": "w" },
+    "row2col3": { "name": "Guinea-Bissau", "status": "w" },
+    "row3col1": { "name": "Ethiopia", "status": "w" },
+    "row3col2": { "name": "Kazakhstan", "status": "e" },
+    "row3col3": { "name": "Thailand", "status": "w" }
+  },
+  {
+    "order": "679",
+    "row1col1": { "name": "Seychelles", "status": "w" },
+    "row1col2": { "name": "Lesotho", "status": "w" },
+    "row1col3": { "name": "Uruguay", "status": "w" },
+    "row2col1": { "name": "Saint Kitts and Nevis", "status": "w" },
+    "row2col2": { "name": "Myanmar", "status": "w" },
+    "row2col3": { "name": "Vatican City", "status": "w" },
+    "row3col1": { "name": "Namibia", "status": "w" },
+    "row3col2": { "name": "Lithuania", "status": "w" },
+    "row3col3": { "name": "Iran", "status": "w" }
+  },
+  {
     "order": "678",
     "row1col1": { "name": "Nigeria", "status": "w" },
     "row1col2": { "name": "Kiribati", "status": "w" },
