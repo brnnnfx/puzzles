@@ -43,11 +43,11 @@ Table of contents
 
 ### Flagdoku # 681
 
-| # 680         | Africa       | Centered        | Repeated letters   |
+| # 680         | No green       | No black        | No white   |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| No-touch: Green-red  | <span style="background-color: #AADFA5"> Reunion 🇷🇪 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span>| <span style="background-color: #FFE143"> Chad 🇹🇩 ⭐️ </span> |
-| Star-colour: Black  | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span> | <span style="background-color: #AADFA5"> Morocco 🇲🇦 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
-| Mid-letter 'H' | <span style="background-color: #AADFA5"> Barbados 🇧🇧 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span> | <span style="background-color: #AADFA5"> Colombia 🇨🇴 </span> |
+| No green  | <span style="background-color: #AADFA5"> Reunion 🇷🇪 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span>| <span style="background-color: #FFE143"> Chad 🇹🇩 ⭐️ </span> |
+| Language: Arabic  | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span> | <span style="background-color: #AADFA5"> Morocco 🇲🇦 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| 3 colours | <span style="background-color: #AADFA5"> Barbados 🇧🇧 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span> | <span style="background-color: #AADFA5"> Colombia 🇨🇴 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
