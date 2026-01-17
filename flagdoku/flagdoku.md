@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 681](#flagdoku--681)
   - [Flagdoku # 680](#flagdoku--680)
   - [Flagdoku # 679](#flagdoku--679)
   - [Flagdoku # 678](#flagdoku--678)
@@ -39,6 +40,18 @@ Table of contents
 ----------------------------
 
 ## Games
+
+### Flagdoku # 681
+
+| # 680         | No green       | No black        | No white   |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| No green  | <span style="background-color: #AADFA5"> Reunion 🇷🇪 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span>| <span style="background-color: #FFE143"> Chad 🇹🇩 ⭐️ </span> |
+| Language: Arabic  | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span> | <span style="background-color: #AADFA5"> Morocco 🇲🇦 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| 3 colours | <span style="background-color: #AADFA5"> Barbados 🇧🇧 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span> | <span style="background-color: #AADFA5"> Colombia 🇨🇴 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 680
 

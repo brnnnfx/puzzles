@@ -1,5 +1,17 @@
 [
   {
+    "order": "681",
+    "row1col1": { "name": "Reunion", "status": "w" },
+    "row1col2": { "name": "Senegal", "status": "w" },
+    "row1col3": { "name": "Chad", "status": "w" },
+    "row2col1": { "name": "Yemen", "status": "w" },
+    "row2col2": { "name": "Morocco", "status": "w" },
+    "row2col3": { "name": "Mauritania", "status": "w" },
+    "row3col1": { "name": "Barbados", "status": "w" },
+    "row3col2": { "name": "Marshall Islands", "status": "w" },
+    "row3col3": { "name": "Colombia", "status": "w" }
+  },
+  {
     "order": "680",
     "row1col1": { "name": "Namibia", "status": "w" },
     "row1col2": { "name": "Mexico", "status": "w" },
