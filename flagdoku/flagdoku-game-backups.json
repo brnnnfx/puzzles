@@ -1,5 +1,17 @@
 [
   {
+    "order": "683",
+    "row1col1": { "name": "Madagascar", "status": "w" },
+    "row1col2": { "name": "Singapore", "status": "w" },
+    "row1col3": { "name": "Sao Tome and Príncipe", "status": "w" },
+    "row2col1": { "name": "Mauritius", "status": "w" },
+    "row2col2": { "name": "Sierra Leone", "status": "w" },
+    "row2col3": { "name": "Italy", "status": "w" },
+    "row3col1": { "name": "Japan", "status": "w" },
+    "row3col2": { "name": "Sudan", "status": "w" },
+    "row3col3": { "name": "China", "status": "w" }
+  },
+  {
     "order": "682",
     "row1col1": { "name": "Ecuador", "status": "w" },
     "row1col2": { "name": "American Samoa", "status": "w" },

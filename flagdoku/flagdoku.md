@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 683](#flagdoku--683)
   - [Flagdoku # 682](#flagdoku--682)
   - [Flagdoku # 681](#flagdoku--681)
   - [Flagdoku # 680](#flagdoku--680)
@@ -35,18 +36,30 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  22 / 680
-- Flag of the day found: 20 / 680
+- Completed Puzzles:  23 / 683
+- Flag of the day found: 20 / 683
 
 ----------------------------
 
 ## Games
 
+### Flagdoku # 683
+
+| # 684         | Red       | White        | No blue   |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Island  | <span style="background-color: #AADFA5"> Madagascar 🇲🇬 </span> | <span style="background-color: #AADFA5"> Singapore 🇸🇬 </span>| <span style="background-color: #AADFA5"> Sao Tome and Príncipe 🇸🇹 </span> |
+| No main colour  | <span style="background-color: #AADFA5"> Mauritius 🇲🇺 </span> | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #AADFA5"> Italy 🇮🇹 </span> |
+| Death penalty | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> | <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span> | <span style="background-color: #AADFA5"> China 🇨🇳 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
+
 ### Flagdoku # 682
 
 | # 682         | Yellow       | Red        | Blue   |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Brow  | <span style="background-color: #FFE143"> Ecuador 🇪🇨 ⭐️ </span> | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span>| <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> |
+| Brown  | <span style="background-color: #FFE143"> Ecuador 🇪🇨 ⭐️ </span> | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span>| <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> |
 | Weapon  | <span style="background-color: #AADFA5"> Sri Lanka 🇱🇰 </span> | <span style="background-color: #AADFA5"> Mozambique 🇲🇿 </span> | <span style="background-color: #AADFA5"> Eswatini 🇸🇿 </span> |
 | Animal | <span style="background-color: #AADFA5"> Bhutan 🇧🇹 </span> | <span style="background-color: #AADFA5"> Mexico 🇲🇽 </span> | <span style="background-color: #AADFA5"> Bermuda 🇧🇲 </span> |
 
