@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 684](#flagdoku--684)
   - [Flagdoku # 683](#flagdoku--683)
   - [Flagdoku # 682](#flagdoku--682)
   - [Flagdoku # 681](#flagdoku--681)
@@ -36,16 +37,28 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  23 / 683
-- Flag of the day found: 20 / 683
+- Completed Puzzles:  24 / 684
+- Flag of the day found: 21 / 684
 
 ----------------------------
 
 ## Games
 
+### Flagdoku # 684
+
+| # 684         | All bands: Vertical       | Europe        | Bands only   |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| No monarchy  | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span>| <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> |
+| No green, no yellow  | <span style="background-color: #AADFA5"> Peru 🇵🇪 </span> | <span style="background-color: #AADFA5"> Austria 🇦🇹 </span> | <span style="background-color: #AADFA5"> Monaco 🇲🇨 </span> |
+| First band: blue | <span style="background-color: #FFE143"> France 🇫🇷 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
+
 ### Flagdoku # 683
 
-| # 684         | Red       | White        | No blue   |
+| # 683         | Red       | White        | No blue   |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Island  | <span style="background-color: #AADFA5"> Madagascar 🇲🇬 </span> | <span style="background-color: #AADFA5"> Singapore 🇸🇬 </span>| <span style="background-color: #AADFA5"> Sao Tome and Príncipe 🇸🇹 </span> |
 | No main colour  | <span style="background-color: #AADFA5"> Mauritius 🇲🇺 </span> | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #AADFA5"> Italy 🇮🇹 </span> |
