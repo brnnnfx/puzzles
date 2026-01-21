@@ -6,6 +6,7 @@ Table of contents
 - [My stats](#my-stats)
 - [Games](#games)
   - [Flagdoku # 685](#flagdoku--685)
+  - [Flagdoku # 684](#flagdoku--684)
   - [Flagdoku # 683](#flagdoku--683)
   - [Flagdoku # 682](#flagdoku--682)
   - [Flagdoku # 681](#flagdoku--681)
@@ -55,6 +56,8 @@ Table of contents
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
 - Difficulty: Easy
+
+### Flagdoku # 684
 
 | # 684         | All bands: Vertical       | Europe        | Bands only   |
 | :--------------------| :---------------: | :---------------: | :----------------: |
