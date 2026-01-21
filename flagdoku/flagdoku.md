@@ -5,7 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
-  - [Flagdoku # 684](#flagdoku--684)
+  - [Flagdoku # 685](#flagdoku--685)
   - [Flagdoku # 683](#flagdoku--683)
   - [Flagdoku # 682](#flagdoku--682)
   - [Flagdoku # 681](#flagdoku--681)
@@ -37,23 +37,33 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  24 / 684
-- Flag of the day found: 21 / 684
+- Completed Puzzles:  25 / 685
+- Flag of the day found: 22 / 685
 
 ----------------------------
 
 ## Games
 
-### Flagdoku # 684
+### Flagdoku # 685
+
+| # 685         | Blue       | Star colour: white        | White band   |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Stars and stripes  | <span style="background-color: #AADFA5"> Uzbekistan 🇺🇿 </span> | <span style="background-color: #FFE143"> United States 🇺🇸 ⭐️ </span>| <span style="background-color: #AADFA5"> Burundi 🇧🇮 </span> |
+| 4 bands or more  | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Liberia 🇱🇷 </span> | <span style="background-color: #AADFA5"> Uruguay 🇺🇾 </span> |
+| Red band | <span style="background-color: #AADFA5"> Chad 🇹🇩 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span> | <span style="background-color: #AADFA5"> Iraq 🇮🇶 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 | # 684         | All bands: Vertical       | Europe        | Bands only   |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | No monarchy  | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span>| <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> |
 | No green, no yellow  | <span style="background-color: #AADFA5"> Peru 🇵🇪 </span> | <span style="background-color: #AADFA5"> Austria 🇦🇹 </span> | <span style="background-color: #AADFA5"> Monaco 🇲🇨 </span> |
-| First band: blue | <span style="background-color: #FFE143"> France 🇫🇷 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> |
+| First band: blue | <span style="background-color: #FFE143"> France 🇫🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> |
 
 - Score: 9/9
-- Found flag of the day (⭐️)?: No
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ### Flagdoku # 683
