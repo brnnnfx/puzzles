@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 687](#flagdoku--687)
+  - [Flagdoku # 686](#flagdoku--686)
   - [Flagdoku # 685](#flagdoku--685)
   - [Flagdoku # 684](#flagdoku--684)
   - [Flagdoku # 683](#flagdoku--683)
@@ -38,12 +40,36 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  25 / 685
-- Flag of the day found: 22 / 685
+- Completed Puzzles:  27 / 687
+- Flag of the day found: 23 / 687
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 687
+
+| # 687         | First band: green       | Starts with 'I'       | Orange band  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Bands only  | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #FFE143"> Ireland 🇮🇪 ⭐️ </span>| <span style="background-color: #AADFA5"> Ivory Coast 🇨🇮 </span> |
+| Mid band: white | <span style="background-color: #AADFA5"> Nigeria 🇳🇬 </span> | <span style="background-color: #AADFA5"> India 🇮🇳 </span> | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span> |
+| Last band: not green | <span style="background-color: #AADFA5"> Italy 🇮🇹 </span> | <span style="background-color: #AADFA5"> Iraq 🇮🇶 </span> | <span style="background-color: #B2797A"> Lebanon 🇱🇧 </span> |
+
+- Score: 8/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 686
+
+| # 686         | Nordic cross       | Large cross       | No blue   |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| No Euro, no Dollar  | <span style="background-color: #FFE143"> Denmark 🇩🇰 ⭐️ </span> | <span style="background-color: #AADFA5"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </span>| <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> |
+| 2 colours | <span style="background-color: #AADFA5"> Sweden 🇸🇪 </span> | <span style="background-color: #AADFA5"> England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> |
+| Name: 7 letters | <span style="background-color: #AADFA5"> Iceland 🇮🇸 </span> | <span style="background-color: #AADFA5"> Finland 🇫🇮 </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 685
 
