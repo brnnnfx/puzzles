@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 689](#flagdoku--689)
   - [Flagdoku # 688](#flagdoku--688)
   - [Flagdoku # 687](#flagdoku--687)
   - [Flagdoku # 686](#flagdoku--686)
@@ -41,12 +42,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  27 / 687
-- Flag of the day found: 23 / 687
+- Completed Puzzles:  28 / 689
+- Flag of the day found: 24 / 689
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 689
+
+| # 689         | Blue band       | All bands: horizontal       | Name has 'R'  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: Slavic  | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Slovakia 🇸🇰  </span>| <span style="background-color: #FFE143"> Russia 🇷🇺 ⭐️ </span> |
+| Ends in a vowel | <span style="background-color: #AADFA5"> Botswana 🇧🇼 </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> | <span style="background-color: #AADFA5"> Burundi 🇧🇮 </span> |
+| Name has 'U' | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> | <span style="background-color: #AADFA5"> Uganda 🇺🇬  </span> | <span style="background-color: #AADFA5"> Uruguay 🇺🇾 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 688
 
