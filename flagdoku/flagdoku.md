@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 688](#flagdoku--688)
   - [Flagdoku # 687](#flagdoku--687)
   - [Flagdoku # 686](#flagdoku--686)
   - [Flagdoku # 685](#flagdoku--685)
@@ -46,6 +47,18 @@ Table of contents
 ----------------------------
 
 ## Games
+
+### Flagdoku # 688
+
+| # 688         | No white       | Yellow band       | 2 colours  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Blue band  | <span style="background-color: #AADFA5"> Chad 🇹🇩 </span> | <span style="background-color: #AADFA5"> Barbados 🇧🇧  </span>| <span style="background-color: #AADFA5"> Honduras 🇭🇳 </span> |
+| Europe | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> | <span style="background-color: #AADFA5"> Latvia 🇱🇻 </span> |
+| 2 bands | <span style="background-color: #AADFA5"> French Guiana 🇬🇫 </span> | <span style="background-color: #FFE143"> Ukraine 🇺🇦 ⭐️ </span> | <span style="background-color: #AADFA5"> Monaco 🇲🇨 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 687
 
