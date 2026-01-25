@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 690](#flagdoku--690)
   - [Flagdoku # 689](#flagdoku--689)
   - [Flagdoku # 688](#flagdoku--688)
   - [Flagdoku # 687](#flagdoku--687)
@@ -42,12 +43,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  28 / 689
+- Completed Puzzles:  29 / 690
 - Flag of the day found: 24 / 689
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 690
+
+| # 690        | 3 colours       | Canton       | No yellow  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Sun  | <span style="background-color: #AADFA5"> Aboriginal People </span> | <span style="background-color: #AADFA5"> Uruguay 🇺🇾 </span>| <span style="background-color: #AADFA5"> Bangladesh 🇧🇩 </span> |
+| Asia | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> | <span style="background-color: #AADFA5"> Malaysia 🇲🇾 </span> | <span style="background-color: #AADFA5"> Iran 🇮🇷 </span> |
+| No bands | <span style="background-color: #AADFA5"> Maldives 🇲🇻 </span> | <span style="background-color: #AADFA5"> Tonga 🇹🇴  </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Hard
 
 ### Flagdoku # 689
 
