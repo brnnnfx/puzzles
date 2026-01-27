@@ -1,5 +1,17 @@
 [
   {
+    "order": "691",
+    "row1col1": { "name": "Serbia", "status": "w" },
+    "row1col2": { "name": "Montenegro", "status": "w" },
+    "row1col3": { "name": "Vatican City", "status": "w" },
+    "row2col1": { "name": "El Salvador", "status": "w" },
+    "row2col2": { "name": "Thailand", "status": "w" },
+    "row2col3": { "name": "Netherlands", "status": "w" },
+    "row3col1": { "name": "Germany", "status": "w" },
+    "row3col2": { "name": "Switzerland", "status": "w" },
+    "row3col3": { "name": "Liechtenstein", "status": "w" }
+  },
+  {
     "order": "690",
     "row1col1": { "name": "[AUS] Aboriginal People", "status": "w" },
     "row1col2": { "name": "Uruguay", "status": "w" },
