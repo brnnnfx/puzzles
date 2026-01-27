@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 691](#flagdoku--691)
   - [Flagdoku # 690](#flagdoku--690)
   - [Flagdoku # 689](#flagdoku--689)
   - [Flagdoku # 688](#flagdoku--688)
@@ -43,12 +44,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  29 / 690
-- Flag of the day found: 24 / 689
+- Completed Puzzles:  30 / 691
+- Flag of the day found: 25 / 691
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 691
+
+| # 691        | 3 colours       | Canton       | No yellow  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Sun  | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Montenegro 🇲🇪 </span>| <span style="background-color: #AADFA5"> Vatican City 🇻🇦 </span> |
+| Asia | <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> | <span style="background-color: #AADFA5"> Netherlands 🇳🇱 </span> |
+| No bands | <span style="background-color: #AADFA5"> Germany 🇩🇪 </span> | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Liechtenstein 🇱🇮 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
 
 ### Flagdoku # 690
 
