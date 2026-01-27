@@ -53,11 +53,11 @@ Table of contents
 
 ### Flagdoku # 691
 
-| # 691        | 3 colours       | Canton       | No yellow  |
+| # 691        | All bands: horizontal       | Red       | Monarchy  |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Sun  | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Montenegro 🇲🇪 </span>| <span style="background-color: #AADFA5"> Vatican City 🇻🇦 </span> |
-| Asia | <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> | <span style="background-color: #AADFA5"> Netherlands 🇳🇱 </span> |
-| No bands | <span style="background-color: #AADFA5"> Germany 🇩🇪 </span> | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Liechtenstein 🇱🇮 ⭐️ </span> |
+| Crown  | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Montenegro 🇲🇪 </span>| <span style="background-color: #AADFA5"> Vatican City 🇻🇦 </span> |
+| Blue | <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> | <span style="background-color: #AADFA5"> Netherlands 🇳🇱 </span> |
+| Language: German | <span style="background-color: #AADFA5"> Germany 🇩🇪 </span> | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Liechtenstein 🇱🇮 ⭐️ </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: No
