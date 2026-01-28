@@ -1,5 +1,17 @@
 [
   {
+    "order": "692",
+    "row1col1": { "name": "Bangladesh", "status": "w" },
+    "row1col2": { "name": "Vietnam", "status": "w" },
+    "row1col3": { "name": "Cambodia", "status": "w" },
+    "row2col1": { "name": "Laos", "status": "w" },
+    "row2col2": { "name": "Scotland", "status": "w" },
+    "row2col3": { "name": "Thailand", "status": "w" },
+    "row3col1": { "name": "Japan", "status": "w" },
+    "row3col2": { "name": "India", "status": "w" },
+    "row3col3": { "name": "Pakistan", "status": "w" }
+  },
+  {
     "order": "691",
     "row1col1": { "name": "Serbia", "status": "w" },
     "row1col2": { "name": "Montenegro", "status": "w" },
