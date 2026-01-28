@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 692](#flagdoku--692)
   - [Flagdoku # 691](#flagdoku--691)
   - [Flagdoku # 690](#flagdoku--690)
   - [Flagdoku # 689](#flagdoku--689)
@@ -44,12 +45,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  30 / 691
-- Flag of the day found: 25 / 691
+- Completed Puzzles:  31 / 692
+- Flag of the day found: 26 / 692
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 692
+
+| # 692        | Has a circle       | Centered       | Asia  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Red  | <span style="background-color: #AADFA5"> Bangladesh 🇧🇩 </span> | <span style="background-color: #AADFA5"> Vietnam 🇻🇳 </span>| <span style="background-color: #AADFA5"> Cambodia 🇰🇭 </span> |
+| 180° symmetry | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> | <span style="background-color: #AADFA5"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </span> | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> |
+| White | <span style="background-color: #FFE143"> Japan 🇯🇵 ⭐️ </span> | <span style="background-color: #AADFA5"> India 🇮🇳 </span> | <span style="background-color: #AADFA5"> Pakistan 🇵🇰 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
 
 ### Flagdoku # 691
 
