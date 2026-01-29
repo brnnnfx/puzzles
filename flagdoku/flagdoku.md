@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 693](#flagdoku--693)
   - [Flagdoku # 692](#flagdoku--692)
   - [Flagdoku # 691](#flagdoku--691)
   - [Flagdoku # 690](#flagdoku--690)
@@ -45,12 +46,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  31 / 692
-- Flag of the day found: 26 / 692
+- Completed Puzzles:  32 / 693
+- Flag of the day found: 26 / 693
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 693
+
+| # 693        | Blue       | White       | No yellow  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Death penalty  | <span style="background-color: #AADFA5"> North Korea 🇰🇵 </span> | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span>| <span style="background-color: #AADFA5"> Pakistan 🇵🇰 </span> |
+| Mid band: black | <span style="background-color: #AADFA5"> Estonia 🇪🇪 </span> | <span style="background-color: #FFE143"> Botswana 🇧🇼 ⭐️ </span> | <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹 </span> |
+| No green | <span style="background-color: #AADFA5"> Cuba 🇨🇺 </span> | <span style="background-color: #AADFA5"> Eswatini 🇸🇿 </span> | <span style="background-color: #AADFA5"> Indonesia 🇮🇩 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
 
 ### Flagdoku # 692
 
