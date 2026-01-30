@@ -1,5 +1,17 @@
 [
   {
+    "order": "694",
+    "row1col1": { "name": "Central African Republic", "status": "w" },
+    "row1col2": { "name": "Mauritius", "status": "w" },
+    "row1col3": { "name": "Comoros", "status": "w" },
+    "row2col1": { "name": "Guinea-Bissau", "status": "w" },
+    "row2col2": { "name": "Egypt", "status": "w" },
+    "row2col3": { "name": "Mauritania", "status": "w" },
+    "row3col1": { "name": "Sao Tome and Príncipe", "status": "w" },
+    "row3col2": { "name": "Lesotho", "status": "w" },
+    "row3col3": { "name": "Libya", "status": "w" }
+  },
+  {
     "order": "693",
     "row1col1": { "name": "North Korea", "status": "w" },
     "row1col2": { "name": "Yemen", "status": "w" },

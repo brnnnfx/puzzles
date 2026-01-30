@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 694](#flagdoku--694)
   - [Flagdoku # 693](#flagdoku--693)
   - [Flagdoku # 692](#flagdoku--692)
   - [Flagdoku # 691](#flagdoku--691)
@@ -46,12 +47,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  32 / 693
-- Flag of the day found: 26 / 693
+- Completed Puzzles:  33 / 694
+- Flag of the day found: 26 / 694
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 694
+
+| # 694        | Blue       | White       | No yellow  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Death penalty  | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> | <span style="background-color: #AADFA5"> Mauritius 🇲🇺 </span>| <span style="background-color: #AADFA5"> Comoros 🇰🇲 </span> |
+| Mid band: black | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Egypt 🇪🇬 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| No green | <span style="background-color: #AADFA5"> Sao Tome and Príncipe 🇸🇹 </span> | <span style="background-color: #AADFA5"> Lesotho 🇱🇸 </span> | <span style="background-color: #AADFA5"> Libya 🇱🇾 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
 
 ### Flagdoku # 693
 
@@ -62,7 +75,7 @@ Table of contents
 | No green | <span style="background-color: #AADFA5"> Cuba 🇨🇺 </span> | <span style="background-color: #AADFA5"> Eswatini 🇸🇿 </span> | <span style="background-color: #AADFA5"> Indonesia 🇮🇩 </span> |
 
 - Score: 9/9
-- Found flag of the day (⭐️)?: No
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ### Flagdoku # 692
@@ -74,7 +87,7 @@ Table of contents
 | White | <span style="background-color: #FFE143"> Japan 🇯🇵 ⭐️ </span> | <span style="background-color: #AADFA5"> India 🇮🇳 </span> | <span style="background-color: #AADFA5"> Pakistan 🇵🇰 </span> |
 
 - Score: 9/9
-- Found flag of the day (⭐️)?: No
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ### Flagdoku # 691
@@ -86,7 +99,7 @@ Table of contents
 | Language: German | <span style="background-color: #AADFA5"> Germany 🇩🇪 </span> | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #FFE143"> Liechtenstein 🇱🇮 ⭐️ </span> |
 
 - Score: 9/9
-- Found flag of the day (⭐️)?: No
+- Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
 ### Flagdoku # 690
