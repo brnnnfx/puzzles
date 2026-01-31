@@ -1,5 +1,17 @@
 [
   {
+    "order": "695",
+    "row1col1": { "name": "Zambia", "status": "w" },
+    "row1col2": { "name": "Sudan", "status": "w" },
+    "row1col3": { "name": "Iraq", "status": "w" },
+    "row2col1": { "name": "Kiribati", "status": "w" },
+    "row2col2": { "name": "Chad", "status": "w" },
+    "row2col3": { "name": "Egypt", "status": "w" },
+    "row3col1": { "name": "Zimbabwe", "status": "w" },
+    "row3col2": { "name": "Lebanon", "status": "w" },
+    "row3col3": { "name": "Belize", "status": "w" }
+  },
+  {
     "order": "694",
     "row1col1": { "name": "Central African Republic", "status": "w" },
     "row1col2": { "name": "Mauritius", "status": "w" },

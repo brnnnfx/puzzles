@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 695](#flagdoku--695)
   - [Flagdoku # 694](#flagdoku--694)
   - [Flagdoku # 693](#flagdoku--693)
   - [Flagdoku # 692](#flagdoku--692)
@@ -47,12 +48,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  33 / 694
-- Flag of the day found: 26 / 694
+- Completed Puzzles:  34 / 695
+- Flag of the day found: 27 / 695
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 695
+
+| # 695        | Winged animal       | Language: Arabic       | Text  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Black  | <span style="background-color: #AADFA5"> Zambia 🇿🇲 </span> | <span style="background-color: #AADFA5"> Sudan 🇸🇩 </span>| <span style="background-color: #AADFA5"> Iraq 🇮🇶 </span> |
+| Yellow | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span> | <span style="background-color: #AADFA5"> Chad 🇹🇩 </span> | <span style="background-color: #FFE143"> Egypt 🇪🇬 ⭐️ </span> |
+| All bands: horizontal | <span style="background-color: #AADFA5"> Zimbabwe 🇿🇼 </span> | <span style="background-color: #AADFA5"> Lebanon 🇱🇧 </span> | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 694
 
