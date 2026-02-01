@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 697](#flagdoku--697)
+  - [Flagdoku # 696](#flagdoku--696)
   - [Flagdoku # 695](#flagdoku--695)
   - [Flagdoku # 694](#flagdoku--694)
   - [Flagdoku # 693](#flagdoku--693)
@@ -48,12 +50,36 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  34 / 695
-- Flag of the day found: 27 / 695
+- Completed Puzzles:  36 / 697
+- Flag of the day found: 29 / 697
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 697
+
+| # 697        | Red band       | Yellow band      | Green band  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| First band: red  | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Mauritius 🇲🇺 </span>| <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| Mid band: yellow | <span style="background-color: #AADFA5"> Mali 🇲🇱 </span> | <span style="background-color: #AADFA5"> Ethiopia 🇪🇹 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> |
+| Last band: green | <span style="background-color: #AADFA5"> Zimbabwe 🇿🇼 </span> | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> | <span style="background-color: #FFE143"> Guinea 🇬🇳 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
+
+### Flagdoku # 696
+
+| # 696        | Europe      | Red       | Yellow  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Building  | <span style="background-color: #AADFA5"> Gibraltar 🇬🇮 </span> | <span style="background-color: #AADFA5"> Cambodia 🇰🇭 </span>| <span style="background-color: #AADFA5"> San Marino 🇸🇲 </span> |
+| Non-winged animal | <span style="background-color: #AADFA5"> Andorra 🇦🇩 </span> | <span style="background-color: #AADFA5"> Bermuda 🇧🇲 </span> | <span style="background-color: #AADFA5"> Bhutan 🇧🇹 </span> |
+| World cup winner | <span style="background-color: #AADFA5"> Italy 🇮🇹 </span> | <span style="background-color: #FFE143"> Spain 🇪🇸 ⭐️ </span> | <span style="background-color: #AADFA5"> Uruguay 🇺🇾 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 695
 
