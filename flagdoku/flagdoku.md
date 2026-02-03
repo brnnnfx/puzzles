@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 699](#flagdoku--699)
   - [Flagdoku # 698](#flagdoku--698)
   - [Flagdoku # 697](#flagdoku--697)
   - [Flagdoku # 696](#flagdoku--696)
@@ -51,12 +52,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  36 / 697
-- Flag of the day found: 29 / 697
+- Completed Puzzles:  37 / 699
+- Flag of the day found: 30 / 699
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 699
+
+| # 699        | Centered      | With star(s)      | 3 bands  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Central America  | <span style="background-color: #AADFA5"> Mexico 🇲🇽 </span> | <span style="background-color: #AADFA5"> Panama 🇵🇦 </span>| <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> |
+| Language: Spanish | <span style="background-color: #AADFA5"> Argentina 🇦🇷 </span> | <span style="background-color: #AADFA5"> Venezuela 🇻🇪 </span> | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> |
+| 2 colours | <span style="background-color: #AADFA5"> Tunisia 🇹🇳 </span> | <span style="background-color: #FFE143"> Honduras 🇭🇳 ⭐️  </span> | <span style="background-color: #AADFA5"> Austria 🇦🇹 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 698
 
@@ -64,7 +77,7 @@ Table of contents
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Sun  | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span>| <span style="background-color: #AADFA5"> Argentina 🇦🇷 </span> |
 | 3+ stars not centered | <span style="background-color: #FFE143"> Philippines 🇵🇭 ⭐️ </span> | <span style="background-color: #AADFA5"> Uzbekistan 🇺🇿 </span> | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> |
-| Same letter thrice | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span> | <span style="background-color: #AADFA5"> Kazakhstan 🇰🇿</span> | <span style="background-color: #AADFA5"> Venezuela 🇻🇪 </span> |
+| Same letter thrice | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span> | <span style="background-color: #AADFA5"> Kazakhstan 🇰🇿 </span> | <span style="background-color: #AADFA5"> Venezuela 🇻🇪 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
