@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 698](#flagdoku--698)
   - [Flagdoku # 697](#flagdoku--697)
   - [Flagdoku # 696](#flagdoku--696)
   - [Flagdoku # 695](#flagdoku--695)
@@ -56,6 +57,18 @@ Table of contents
 ----------------------------
 
 ## Games
+
+### Flagdoku # 698
+
+| # 698        | Blue, red       | Asia      | White, yellow  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Sun  | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span>| <span style="background-color: #AADFA5"> Argentina 🇦🇷 </span> |
+| 3+ stars not centered | <span style="background-color: #FFE143"> Philippines 🇵🇭 ⭐️ </span> | <span style="background-color: #AADFA5"> Uzbekistan 🇺🇿 </span> | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> |
+| Same letter thrice | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span> | <span style="background-color: #AADFA5"> Kazakhstan 🇰🇿</span> | <span style="background-color: #AADFA5"> Venezuela 🇻🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 697
 
