@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 700](#flagdoku--700)
   - [Flagdoku # 699](#flagdoku--699)
   - [Flagdoku # 698](#flagdoku--698)
   - [Flagdoku # 697](#flagdoku--697)
@@ -52,12 +53,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles:  37 / 699
-- Flag of the day found: 30 / 699
+- Completed Puzzles: 42 / 700
+- Flag of the day found: 31 / 700
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 700
+
+| # 700        | Centered      | With star(s)      | 3 bands  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Central America  | <span style="background-color: #AADFA5"> Tunisia 🇹🇳 </span> | <span style="background-color: #AADFA5"> Algeria 🇩🇿 </span>| <span style="background-color: #FFE143"> Morocco 🇲🇦 ⭐️ </span> |
+| Language: Spanish | <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹 </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> | <span style="background-color: #AADFA5"> Lesotho 🇱🇸 </span> |
+| 2 colours | <span style="background-color: #AADFA5"> Monaco 🇲🇨 </span> | <span style="background-color: #AADFA5"> Mexico 🇲🇽 </span> | <span style="background-color: #AADFA5"> Montenegro 🇲🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 699
 

@@ -1,5 +1,17 @@
 [
   {
+    "order": "700",
+    "row1col1": { "name": "Tunisia", "status": "w" },
+    "row1col2": { "name": "Algeria", "status": "w" },
+    "row1col3": { "name": "Morocco", "status": "w" },
+    "row2col1": { "name": "Trinidad and Tobago", "status": "w" },
+    "row2col2": { "name": "Burkina Faso", "status": "w" },
+    "row2col3": { "name": "Lesotho", "status": "w" },
+    "row3col1": { "name": "Monaco", "status": "w" },
+    "row3col2": { "name": "Mexico", "status": "w" },
+    "row3col3": { "name": "Montenegro", "status": "w" }
+  },
+  {
     "order": "699",
     "row1col1": { "name": "Mexico", "status": "w" },
     "row1col2": { "name": "Panama", "status": "w" },
