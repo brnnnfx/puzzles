@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 702](#flagdoku--702)
+  - [Flagdoku # 701](#flagdoku--701)
   - [Flagdoku # 700](#flagdoku--700)
   - [Flagdoku # 699](#flagdoku--699)
   - [Flagdoku # 698](#flagdoku--698)
@@ -53,12 +55,36 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 42 / 700
-- Flag of the day found: 31 / 700
+- Completed Puzzles: 44 / 702
+- Flag of the day found: 33 / 702
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 702
+
+| # 702        | Red      | Green      | White  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Eastern Orthodox  | <span style="background-color: #AADFA5"> North Macedonia 🇲🇰 </span> | <span style="background-color: #AADFA5"> Bulgaria 🇧🇬 </span>| <span style="background-color: #AADFA5"> Georgia 🇬🇪 </span> |
+| Post-Soviet | <span style="background-color: #AADFA5"> Kyrgyzstan 🇰🇬 </span> | <span style="background-color: #AADFA5"> Uzbekistan 🇺🇿 </span> | <span style="background-color: #AADFA5"> Turkmenistan 🇹🇲 </span> |
+| Language: Slavic | <span style="background-color: #AADFA5"> Poland 🇵🇱 </span> | <span style="background-color: #FFE143"> Belarus 🇧🇾 ⭐️ </span> | <span style="background-color: #AADFA5"> Slovenia 🇸🇮 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
+
+### Flagdoku # 701
+
+| # 701        | Africa      | 3 colours      | 1 star  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Starts with 'C'  | <span style="background-color: #FFE143"> Cameroon 🇨🇲 ⭐️ </span> | <span style="background-color: #AADFA5"> Costa Rica 🇨🇷 </span>| <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> |
+| No blue, no white | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> |
+| All bands: vertical | <span style="background-color: #AADFA5"> Chad 🇹🇩 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 700
 
