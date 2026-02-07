@@ -1,5 +1,17 @@
 [
   {
+    "order": "703",
+    "row1col1": { "name": "Cyprus", "status": "w" },
+    "row1col2": { "name": "Barbados", "status": "w" },
+    "row1col3": { "name": "New Zealand", "status": "w" },
+    "row2col1": { "name": "Faroe Islands", "status": "w" },
+    "row2col2": { "name": "Israel", "status": "w" },
+    "row2col3": { "name": "Japan", "status": "w" },
+    "row3col1": { "name": "Switzerland", "status": "w" },
+    "row3col2": { "name": "Pakistan", "status": "w" },
+    "row3col3": { "name": "China", "status": "w" }
+  },
+  {
     "order": "702",
     "row1col1": { "name": "North Macedonia", "status": "w" },
     "row1col2": { "name": "Bulgaria", "status": "w" },
