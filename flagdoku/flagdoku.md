@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 703](#flagdoku--703)
   - [Flagdoku # 702](#flagdoku--702)
   - [Flagdoku # 701](#flagdoku--701)
   - [Flagdoku # 700](#flagdoku--700)
@@ -55,12 +56,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 44 / 702
-- Flag of the day found: 33 / 702
+- Completed Puzzles: 45 / 703
+- Flag of the day found: 34 / 703
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 703
+
+| # 703        | Europe      | No red      | No bands  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Capital has 'N'  | <span style="background-color: #FFE143"> Cyprus 🇨🇾 ⭐️ </span> | <span style="background-color: #AADFA5"> Barbados 🇧🇧 </span>| <span style="background-color: #AADFA5"> New Zealand 🇳🇿 </span> |
+| White (> 50%) | <span style="background-color: #AADFA5"> Faroe Islands 🇫🇴  </span> | <span style="background-color: #AADFA5"> Israel 🇮🇱 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> |
+| No blue | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #AADFA5"> Pakistan 🇵🇰 </span> | <span style="background-color: #AADFA5"> China 🇨🇳 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 702
 
