@@ -1,5 +1,29 @@
 [
   {
+    "order": "702",
+    "row1col1": { "name": "North Macedonia", "status": "w" },
+    "row1col2": { "name": "Bulgaria", "status": "w" },
+    "row1col3": { "name": "Georgia", "status": "w" },
+    "row2col1": { "name": "Kyrgyzstan", "status": "w" },
+    "row2col2": { "name": "Uzbekistan", "status": "w" },
+    "row2col3": { "name": "Turkmenistan", "status": "w" },
+    "row3col1": { "name": "Poland", "status": "w" },
+    "row3col2": { "name": "Belarus", "status": "w" },
+    "row3col3": { "name": "Slovenia", "status": "w" }
+  },
+  {
+    "order": "701",
+    "row1col1": { "name": "Cameroon", "status": "w" },
+    "row1col2": { "name": "Costa Rica", "status": "w" },
+    "row1col3": { "name": "Central African Republic", "status": "w" },
+    "row2col1": { "name": "Senegal", "status": "w" },
+    "row2col2": { "name": "Guinea", "status": "w" },
+    "row2col3": { "name": "Burkina Faso", "status": "w" },
+    "row3col1": { "name": "Chad", "status": "w" },
+    "row3col2": { "name": "Romania", "status": "w" },
+    "row3col3": { "name": "Moldova", "status": "w" }
+  },
+  {
     "order": "700",
     "row1col1": { "name": "Tunisia", "status": "w" },
     "row1col2": { "name": "Algeria", "status": "w" },
