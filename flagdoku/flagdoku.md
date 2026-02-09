@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 704](#flagdoku--704)
   - [Flagdoku # 703](#flagdoku--703)
   - [Flagdoku # 702](#flagdoku--702)
   - [Flagdoku # 701](#flagdoku--701)
@@ -56,12 +57,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 45 / 703
-- Flag of the day found: 34 / 703
+- Completed Puzzles: 46 / 704
+- Flag of the day found: 35 / 704
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 704
+
+| # 704        | Black, yellow      | Name has 'new'      | Green  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Blue  | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span> | <span style="background-color: #AADFA5"> New Zealand 🇳🇿 </span>| <span style="background-color: #AADFA5"> Namibia 🇳🇦 </span> |
+| Oceania | <span style="background-color: #AADFA5"> Vanuatu 🇻🇺  </span> | <span style="background-color: #FFE143"> New Caledonia 🇳🇨 ⭐️ </span> | <span style="background-color: #AADFA5"> Solomon Islands 🇸🇧 </span> |
+| Red | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span> | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> | <span style="background-color: #AADFA5"> Maldives 🇲🇻 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 703
 
