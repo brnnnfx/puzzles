@@ -66,11 +66,11 @@ Table of contents
 
 ### Flagdoku # 704
 
-| # 704        | Black, yellow      | Name has 'new'      | Green  |
+| # 704        | 1 star      | Africa      | Blue  |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Blue  | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span> | <span style="background-color: #AADFA5"> New Zealand 🇳🇿 </span>| <span style="background-color: #AADFA5"> Namibia 🇳🇦 </span> |
-| Oceania | <span style="background-color: #AADFA5"> Vanuatu 🇻🇺  </span> | <span style="background-color: #FFE143"> New Caledonia 🇳🇨 ⭐️ </span> | <span style="background-color: #AADFA5"> Solomon Islands 🇸🇧 </span> |
-| Red | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span> | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> | <span style="background-color: #AADFA5"> Maldives 🇲🇻 </span> |
+| 3 bands  | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span>| <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> |
+| Star colour: yellow | <span style="background-color: #AADFA5"> Mozambique 🇲🇿  </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> | <span style="background-color: #FFE143"> Ethiopia 🇪🇹 ⭐️ </span> |
+| Has a circle | <span style="background-color: #AADFA5"> Tunisia 🇹🇳 </span> | <span style="background-color: #AADFA5"> Uganda 🇺🇬 </span> | <span style="background-color: #AADFA5"> Palau 🇵🇼 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
