@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 706](#flagdoku--706)
+  - [Flagdoku # 705](#flagdoku--705)
   - [Flagdoku # 704](#flagdoku--704)
   - [Flagdoku # 703](#flagdoku--703)
   - [Flagdoku # 702](#flagdoku--702)
@@ -57,20 +59,44 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 46 / 704
-- Flag of the day found: 35 / 704
+- Completed Puzzles: 48 / 706
+- Flag of the day found: 37 / 706
 
 ----------------------------
 
 ## Games
 
-### Flagdoku # 704
+### Flagdoku # 706
 
-| # 704        | 1 star      | Africa      | Blue  |
+| # 706        | Nordic cross      | Europe      | 3 colours  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Large red cross  | <span style="background-color: #AADFA5"> Faroe Islands 🇫🇴 </span> | <span style="background-color: #AADFA5"> England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </span>| <span style="background-color: #AADFA5"> Aland 🇦🇽 </span> |
+| Blue | <span style="background-color: #AADFA5"> Sweden 🇸🇪  </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> |
+| Large white cross | <span style="background-color: #AADFA5"> Norway 🇳🇴 </span> | <span style="background-color: #AADFA5"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </span> | <span style="background-color: #FFE143"> Iceland 🇮🇸 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 705
+
+| # 705        | 1 star      | Africa      | Blue  |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | 3 bands  | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span>| <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> |
 | Star colour: yellow | <span style="background-color: #AADFA5"> Mozambique 🇲🇿  </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> | <span style="background-color: #FFE143"> Ethiopia 🇪🇹 ⭐️ </span> |
 | Has a circle | <span style="background-color: #AADFA5"> Tunisia 🇹🇳 </span> | <span style="background-color: #AADFA5"> Uganda 🇺🇬 </span> | <span style="background-color: #AADFA5"> Palau 🇵🇼 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 704
+
+| # 704        | Black, yellow     | Name has 'new'      | Green  |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Blue  | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span> | <span style="background-color: #AADFA5"> New Zealand 🇳🇿 </span>| <span style="background-color: #AADFA5"> Namibia 🇳🇦 </span> |
+| Oceania | <span style="background-color: #AADFA5"> Vanuatu 🇻🇺  </span> | <span style="background-color: #FFE143"> New Caledonia 🇳🇨 ⭐️ </span> | <span style="background-color: #AADFA5"> Solomon Islands 🇸🇧 </span> |
+| Red | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span> | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> | <span style="background-color: #AADFA5"> Maldives 🇲🇻 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
