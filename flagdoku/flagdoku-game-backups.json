@@ -1,5 +1,17 @@
 [
   {
+    "order": "706",
+    "row1col1": { "name": "Faroe Islands", "status": "w" },
+    "row1col2": { "name": "England", "status": "w" },
+    "row1col3": { "name": "Aland", "status": "w" },
+    "row2col1": { "name": "Sweden", "status": "w" },
+    "row2col2": { "name": "Ukraine", "status": "w" },
+    "row2col3": { "name": "Romania", "status": "w" },
+    "row3col1": { "name": "Norway", "status": "w" },
+    "row3col2": { "name": "Scotland", "status": "w" },
+    "row3col3": { "name": "Iceland", "status": "w" }
+  },
+  {
     "order": "705",
     "row1col1": { "name": "Guinea-Bissau", "status": "w" },
     "row1col2": { "name": "Niger", "status": "w" },
@@ -10,6 +22,18 @@
     "row3col1": { "name": "Tunisia", "status": "w" },
     "row3col2": { "name": "Uganda", "status": "w" },
     "row3col3": { "name": "Palau", "status": "w" }
+  },
+  {
+    "order": "704",
+    "row1col1": { "name": "Kiribati", "status": "w" },
+    "row1col2": { "name": "New Zealand", "status": "w" },
+    "row1col3": { "name": "Namibia", "status": "w" },
+    "row2col1": { "name": "Vanuatu", "status": "w" },
+    "row2col2": { "name": "New Caledonia", "status": "w" },
+    "row2col3": { "name": "Solomon Islands", "status": "w" },
+    "row3col1": { "name": "Brunei", "status": "w" },
+    "row3col2": { "name": "Papua New Guinea", "status": "w" },
+    "row3col3": { "name": "Maldives", "status": "w" }
   },
   {
     "order": "703",
