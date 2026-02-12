@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 707](#flagdoku--707)
   - [Flagdoku # 706](#flagdoku--706)
   - [Flagdoku # 705](#flagdoku--705)
   - [Flagdoku # 704](#flagdoku--704)
@@ -59,19 +60,31 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 48 / 706
-- Flag of the day found: 37 / 706
+- Completed Puzzles: 49 / 707
+- Flag of the day found: 38 / 707
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 707
+
+| # 707        | North America      | Star colour: white      | Triangle at the side |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: Spanish  | <span style="background-color: #AADFA5"> Honduras 🇭🇳 </span> | <span style="background-color: #AADFA5"> Cuba 🇨🇺 </span>| <span style="background-color: #FFE143"> Puerto Rico 🇵🇷 ⭐️  </span> |
+| 3 colours | <span style="background-color: #AADFA5"> Panama 🇵🇦 </span> | <span style="background-color: #AADFA5"> Samoa 🇼🇸 </span> | <span style="background-color: #AADFA5"> Czech Republic 🇨🇿 </span> |
+| Exactly 2 words | <span style="background-color: #AADFA5"> Dominican Republic 🇩🇴 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span> | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 706
 
 | # 706        | Nordic cross      | Europe      | 3 colours  |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Large red cross  | <span style="background-color: #AADFA5"> Faroe Islands 🇫🇴 </span> | <span style="background-color: #AADFA5"> England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </span>| <span style="background-color: #AADFA5"> Aland 🇦🇽 </span> |
-| Blue | <span style="background-color: #AADFA5"> Sweden 🇸🇪  </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> |
+| Blue | <span style="background-color: #AADFA5"> Sweden 🇸🇪 </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> |
 | Large white cross | <span style="background-color: #AADFA5"> Norway 🇳🇴 </span> | <span style="background-color: #AADFA5"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </span> | <span style="background-color: #FFE143"> Iceland 🇮🇸 ⭐️ </span> |
 
 - Score: 9/9

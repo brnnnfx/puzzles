@@ -1,5 +1,17 @@
 [
   {
+    "order": "707",
+    "row1col1": { "name": "Honduras", "status": "w" },
+    "row1col2": { "name": "Cuba", "status": "w" },
+    "row1col3": { "name": "Puerto Rico", "status": "w" },
+    "row2col1": { "name": "Panama", "status": "w" },
+    "row2col2": { "name": "Samoa", "status": "w" },
+    "row2col3": { "name": "Czech Republic", "status": "w" },
+    "row3col1": { "name": "Dominican Republic", "status": "w" },
+    "row3col2": { "name": "Marshall Islands", "status": "w" },
+    "row3col3": { "name": "American Samoa", "status": "w" }
+  },
+  {
     "order": "706",
     "row1col1": { "name": "Faroe Islands", "status": "w" },
     "row1col2": { "name": "England", "status": "w" },
