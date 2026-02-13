@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 709](#flagdoku--709)
+  - [Flagdoku # 708](#flagdoku--708)
   - [Flagdoku # 707](#flagdoku--707)
   - [Flagdoku # 706](#flagdoku--706)
   - [Flagdoku # 705](#flagdoku--705)
@@ -67,6 +69,30 @@ Table of contents
 
 ## Games
 
+### Flagdoku # 709
+
+| # 709        | Black    | Asia      | Has a circle |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| 4 colours  | <span style="background-color: #AADFA5"> Brazil 🇧🇷 </span> | <span style="background-color: #FFE143"> Portugal 🇵🇹 ⭐️ </span>| <span style="background-color: #AADFA5"> French Guiana 🇬🇫 </span> |
+| Blue, Red | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> |
+| Main colour: white | <span style="background-color: #AADFA5"> Dominican Republic 🇩🇴 </span> | <span style="background-color: #AADFA5"> Sao Tome and Príncipe 🇸🇹 </span> | <span style="background-color: #AADFA5"> Angola 🇦🇴 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 708
+
+| # 708        | North America      | Star colour: white      | Triangle at the side |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: Spanish  | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span>| <span style="background-color: #AADFA5"> India 🇮🇳 </span> |
+| 3 colours | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> | <span style="background-color: #AADFA5"> Malaysia 🇲🇾 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> |
+| Exactly 2 words | <span style="background-color: #AADFA5"> United States Virgin Islands 🇻🇮 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> | <span style="background-color: #FFE143"> South Korea 🇰🇷 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
 ### Flagdoku # 707
 
 | # 707        | North America      | Star colour: white      | Triangle at the side |
@@ -93,7 +119,7 @@ Table of contents
 
 ### Flagdoku # 705
 
-| # 705        | 1 star      | Africa      | Blue  |
+| # 705        | 1 star      | Africa      | Blue    |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | 3 bands  | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span>| <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> |
 | Star colour: yellow | <span style="background-color: #AADFA5"> Mozambique 🇲🇿  </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> | <span style="background-color: #FFE143"> Ethiopia 🇪🇹 ⭐️ </span> |
