@@ -93,7 +93,7 @@ Table of contents
 
 ### Flagdoku # 705
 
-| # 705        | 1 star      | Africa      | Blue  |
+| # 705        | 1 star      | Africa      | Blue    |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | 3 bands  | <span style="background-color: #AADFA5"> Guinea-Bissau 🇬🇼 </span> | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span>| <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> |
 | Star colour: yellow | <span style="background-color: #AADFA5"> Mozambique 🇲🇿  </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> | <span style="background-color: #FFE143"> Ethiopia 🇪🇹 ⭐️ </span> |
