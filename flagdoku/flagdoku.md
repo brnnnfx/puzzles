@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 710](#flagdoku--710)
   - [Flagdoku # 709](#flagdoku--709)
   - [Flagdoku # 708](#flagdoku--708)
   - [Flagdoku # 707](#flagdoku--707)
@@ -62,12 +63,25 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 49 / 707
-- Flag of the day found: 38 / 707
+- Completed Puzzles: 53 / 710
+- Flag of the day found: 41 / 710
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 710
+
+| # 710        | Green band    | Black band      | Blue band |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Yellow band  | <span style="background-color: #AADFA5"> French Guiana 🇬🇫 </span> | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span>| <span style="background-color: #FFE143"> Tanzania 🇹🇿 ⭐️ </span> |
+| All bands: Diagonal | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span> |
+| Yellow band | <span style="background-color: #AADFA5"> Congo 🇨🇬 </span> | <span style="background-color: #AADFA5"> Saint Kitts and Nevis 🇰🇳 </span> | <span style="background-color: #AADFA5"> Democratic Republic Of The Congo 🇨🇩
+ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 709
 
