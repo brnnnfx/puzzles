@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 711](#flagdoku--711)
   - [Flagdoku # 710](#flagdoku--710)
   - [Flagdoku # 709](#flagdoku--709)
   - [Flagdoku # 708](#flagdoku--708)
@@ -70,14 +71,25 @@ Table of contents
 
 ## Games
 
+### Flagdoku # 711
+
+| # 711        | Cenetered    | With stars     | Africa |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Green-red-white only  | <span style="background-color: #AADFA5"> Maldives 🇲🇻 </span> | <span style="background-color: #AADFA5"> Burundi 🇧🇮 </span>| <span style="background-color: #FFE143"> Algeria 🇩🇿 ⭐️ </span> |
+| Language: Arabic | <span style="background-color: #AADFA5"> Egypt 🇪🇬 </span> | <span style="background-color: #AADFA5"> Libya 🇱🇾 </span> | <span style="background-color: #AADFA5"> Somalia 🇸🇴 </span> |
+| Moon | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> | <span style="background-color: #AADFA5"> Comoros 🇰🇲 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
 ### Flagdoku # 710
 
 | # 710        | Green band    | Black band      | Blue band |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Yellow band  | <span style="background-color: #AADFA5"> French Guiana 🇬🇫 </span> | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span>| <span style="background-color: #FFE143"> Tanzania 🇹🇿 ⭐️ </span> |
 | All bands: Diagonal | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span> |
-| Yellow band | <span style="background-color: #AADFA5"> Congo 🇨🇬 </span> | <span style="background-color: #AADFA5"> Saint Kitts and Nevis 🇰🇳 </span> | <span style="background-color: #AADFA5"> Democratic Republic Of The Congo 🇨🇩
- </span> |
+| Yellow band | <span style="background-color: #AADFA5"> Congo 🇨🇬 </span> | <span style="background-color: #AADFA5"> Saint Kitts and Nevis 🇰🇳 </span> | <span style="background-color: #AADFA5"> Democratic Republic Of The Congo 🇨🇩 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
