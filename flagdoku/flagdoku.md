@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 712](#flagdoku--712)
   - [Flagdoku # 711](#flagdoku--711)
   - [Flagdoku # 710](#flagdoku--710)
   - [Flagdoku # 709](#flagdoku--709)
@@ -64,16 +65,28 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 53 / 710
-- Flag of the day found: 41 / 710
+- Completed Puzzles: 55 / 712
+- Flag of the day found: 43 / 712
 
 ----------------------------
 
 ## Games
 
+### Flagdoku # 712
+
+| # 712        | Red    | No blue     | No white |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: German | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #AADFA5"> Austria 🇦🇹 </span>| <span style="background-color: #AADFA5"> Liechtenstein 🇱🇮 </span> |
+| Black band | <span style="background-color: #AADFA5"> Libya 🇱🇾 </span> | <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹  </span> | <span style="background-color: #AADFA5"> Tanzania 🇹🇿 </span> |
+| Last band: yellow | <span style="background-color: #FFE143"> Germany 🇩🇪 ⭐️ </span> | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
 ### Flagdoku # 711
 
-| # 711        | Cenetered    | With stars     | Africa |
+| # 711        | Centered    | With stars     | Africa |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Green-red-white only  | <span style="background-color: #AADFA5"> Maldives 🇲🇻 </span> | <span style="background-color: #AADFA5"> Burundi 🇧🇮 </span>| <span style="background-color: #FFE143"> Algeria 🇩🇿 ⭐️ </span> |
 | Language: Arabic | <span style="background-color: #AADFA5"> Egypt 🇪🇬 </span> | <span style="background-color: #AADFA5"> Libya 🇱🇾 </span> | <span style="background-color: #AADFA5"> Somalia 🇸🇴 </span> |
