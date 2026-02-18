@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 714](#flagdoku--714)
+  - [Flagdoku # 713](#flagdoku--713)
   - [Flagdoku # 712](#flagdoku--712)
   - [Flagdoku # 711](#flagdoku--711)
   - [Flagdoku # 710](#flagdoku--710)
@@ -65,12 +67,37 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 55 / 712
-- Flag of the day found: 43 / 712
+- Completed Puzzles: 57 / 714
+- Flag of the day found: 45 / 714
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 714
+
+| # 714        | Red    | No blue     | No white |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: German | <span style="background-color: #AADFA5"> Slovakia 🇸🇰 </span> | <span style="background-color: #AADFA5"> Israel 🇮🇱 </span>| <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
+| Black band | <span style="background-color: #AADFA5"> Kosovo 🇽🇰 </span> | <span style="background-color: #FFE143"> Slovenia 🇸🇮 ⭐️ </span> | <span style="background-color: #AADFA5"> North Macedonia 🇲🇰 </span> |
+| Last band: yellow | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Greece 🇬🇷 </span> | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
+
+### Flagdoku # 713
+
+| # 713        | Red    | No blue     | No white |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: German | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Albania 🇦🇱 </span>| <span style="background-color: #AADFA5"> Mali 🇲🇱 </span> |
+| Black band | <span style="background-color: #AADFA5"> Denmark 🇩🇰 </span> | <span style="background-color: #AADFA5"> France 🇫🇷 </span> | <span style="background-color: #AADFA5"> Bulgaria 🇧🇬 </span> |
+| Last band: yellow | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span> | <span style="background-color: #FFE143"> Italy 🇮🇹 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
 
 ### Flagdoku # 712
 
