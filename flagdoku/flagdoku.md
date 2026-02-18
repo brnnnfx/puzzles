@@ -76,11 +76,11 @@ Table of contents
 
 ### Flagdoku # 714
 
-| # 714        | Red    | No blue     | No white |
+| # 714        | Blue    | White     | Red |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Language: German | <span style="background-color: #AADFA5"> Slovakia 🇸🇰 </span> | <span style="background-color: #AADFA5"> Israel 🇮🇱 </span>| <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
-| Black band | <span style="background-color: #AADFA5"> Kosovo 🇽🇰 </span> | <span style="background-color: #FFE143"> Slovenia 🇸🇮 ⭐️ </span> | <span style="background-color: #AADFA5"> North Macedonia 🇲🇰 </span> |
-| Last band: yellow | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Greece 🇬🇷 </span> | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> |
+| Capital has 'L' | <span style="background-color: #AADFA5"> Slovakia 🇸🇰 </span> | <span style="background-color: #AADFA5"> Israel 🇮🇱 </span>| <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
+| Balkan, yellow | <span style="background-color: #AADFA5"> Kosovo 🇽🇰 </span> | <span style="background-color: #FFE143"> Slovenia 🇸🇮 ⭐️ </span> | <span style="background-color: #AADFA5"> North Macedonia 🇲🇰 </span> |
+| Items not centered | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Greece 🇬🇷 </span> | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
@@ -88,11 +88,11 @@ Table of contents
 
 ### Flagdoku # 713
 
-| # 713        | Red    | No blue     | No white |
+| # 713        | 3 bands    | No blue     | World Cup winner |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Language: German | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Albania 🇦🇱 </span>| <span style="background-color: #AADFA5"> Mali 🇲🇱 </span> |
-| Black band | <span style="background-color: #AADFA5"> Denmark 🇩🇰 </span> | <span style="background-color: #AADFA5"> France 🇫🇷 </span> | <span style="background-color: #AADFA5"> Bulgaria 🇧🇬 </span> |
-| Last band: yellow | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span> | <span style="background-color: #FFE143"> Italy 🇮🇹 ⭐️ </span> |
+| Southern Europe | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> | <span style="background-color: #AADFA5"> Albania 🇦🇱 </span>| <span style="background-color: #AADFA5"> Mali 🇲🇱 </span> |
+| All letters: unique | <span style="background-color: #AADFA5"> Denmark 🇩🇰 </span> | <span style="background-color: #AADFA5"> France 🇫🇷 </span> | <span style="background-color: #AADFA5"> Bulgaria 🇧🇬 </span> |
+| No yellow | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> | <span style="background-color: #AADFA5"> Brunei 🇧🇳 </span> | <span style="background-color: #FFE143"> Italy 🇮🇹 ⭐️ </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
