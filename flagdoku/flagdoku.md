@@ -98,7 +98,6 @@ Table of contents
 - Found flag of the day (⭐️)?: Yes
 - Difficulty: Medium
 
-
 ### Flagdoku # 712
 
 | # 712        | Red    | No blue     | No white |
