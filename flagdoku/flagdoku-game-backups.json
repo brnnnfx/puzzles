@@ -1,4 +1,28 @@
 [
+    {
+    "order": "714",
+    "row1col1": { "name": "Slovakia", "status": "w" },
+    "row1col2": { "name": "Israel", "status": "w" },
+    "row1col3": { "name": "Lithuania", "status": "w" },
+    "row2col1": { "name": "Kosovo", "status": "w" },
+    "row2col2": { "name": "Slovenia", "status": "w" },
+    "row2col3": { "name": "North Macedonia", "status": "w" },
+    "row3col1": { "name": "Serbia", "status": "w" },
+    "row3col2": { "name": "Greece", "status": "w" },
+    "row3col3": { "name": "Turkey", "status": "w" }
+  },
+  {
+    "order": "713",
+    "row1col1": { "name": "Serbia", "status": "w" },
+    "row1col2": { "name": "Albania", "status": "w" },
+    "row1col3": { "name": "Spain", "status": "w" },
+    "row2col1": { "name": "Mali", "status": "w" },
+    "row2col2": { "name": "Denmark", "status": "w" },
+    "row2col3": { "name": "France", "status": "w" },
+    "row3col1": { "name": "Bulgaria", "status": "w" },
+    "row3col2": { "name": "Turkey", "status": "w" },
+    "row3col3": { "name": "Italy", "status": "w" }
+  },
   {
     "order": "712",
     "row1col1": { "name": "Switzerland", "status": "w" },
