@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 716](#flagdoku--716)
+  - [Flagdoku # 715](#flagdoku--715)
   - [Flagdoku # 714](#flagdoku--714)
   - [Flagdoku # 713](#flagdoku--713)
   - [Flagdoku # 712](#flagdoku--712)
@@ -67,12 +69,36 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 57 / 714
-- Flag of the day found: 45 / 714
+- Completed Puzzles: 59 / 716
+- Flag of the day found: 47 / 716
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 716
+
+| # 716        | 3 colours: no white    | All bands: vertical     | Name ends in: -ia |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Blue | <span style="background-color: #FFE143"> Romania 🇷🇴 ⭐️ </span> | <span style="background-color: #AADFA5"> Chad 🇹🇩 </span>| <span style="background-color: #AADFA5"> Liberia 🇱🇷 </span> |
+| Yellow | <span style="background-color: #AADFA5"> Germany 🇩🇪 </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> | <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
+| Red | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span> | <span style="background-color: #AADFA5"> Peru 🇵🇪 </span> | <span style="background-color: #AADFA5"> Slovenia 🇸🇮 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
+
+### Flagdoku # 715
+
+| # 715        | Blue band    | Mid band: white     | Blue band    |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| 3 bands, centered | <span style="background-color: #AADFA5"> Guatemala 🇬🇹 </span> | <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span>| <span style="background-color: #AADFA5"> Nicaragua 🇳🇮 </span> |
+| Yellow | <span style="background-color: #AADFA5"> Uruguay 🇺🇾 </span> | <span style="background-color: #AADFA5"> Mexico 🇲🇽 </span> | <span style="background-color: #AADFA5"> Venezuela 🇻🇪 </span> |
+| South America | <span style="background-color: #AADFA5"> Colombia 🇨🇴 </span> | <span style="background-color: #FFE143"> Argentina 🇦🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Ecuador 🇪🇨 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 714
 
