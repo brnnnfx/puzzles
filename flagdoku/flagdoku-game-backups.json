@@ -1,5 +1,29 @@
 [
   {
+    "order": "726",
+    "row1col1": { "name": "Ecuador", "status": "w" },
+    "row1col2": { "name": "Mozambique", "status": "w" },
+    "row1col3": { "name": "Eswatini", "status": "w" },
+    "row2col1": { "name": "Trinidad and Tobago", "status": "w" },
+    "row2col2": { "name": "Angola", "status": "w" },
+    "row2col3": { "name": "Kenya", "status": "w" },
+    "row3col1": { "name": "Central African Republic", "status": "w" },
+    "row3col2": { "name": "Liberia", "status": "w" },
+    "row3col3": { "name": "Burkina Faso", "status": "w" }
+  },
+  {
+    "order": "725",
+    "row1col1": { "name": "Comoros", "status": "w" },
+    "row1col2": { "name": "Mauritius", "status": "w" },
+    "row1col3": { "name": "Madagascar", "status": "w" },
+    "row2col1": { "name": "Botswana", "status": "w" },
+    "row2col2": { "name": "Democratic Republic Of The Congo", "status": "w" },
+    "row2col3": { "name": "Marshall Islands", "status": "w" },
+    "row3col1": { "name": "Mauritania", "status": "w" },
+    "row3col2": { "name": "Ethiopia", "status": "w" },
+    "row3col3": { "name": "Cape Verde", "status": "w" }
+  },
+  {
     "order": "716",
     "row1col1": { "name": "Romania", "status": "w" },
     "row1col2": { "name": "Chad", "status": "w" },
