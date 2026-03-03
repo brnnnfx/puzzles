@@ -5,6 +5,8 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 726](#flagdoku--726)
+  - [Flagdoku # 725](#flagdoku--725)
   - [Flagdoku # 716](#flagdoku--716)
   - [Flagdoku # 715](#flagdoku--715)
   - [Flagdoku # 714](#flagdoku--714)
@@ -69,12 +71,36 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 59 / 716
-- Flag of the day found: 47 / 716
+- Completed Puzzles: 61 / 718
+- Flag of the day found: 49 / 718
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 726
+
+| # 726        | Red band    | Country: has sea     | Centered |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Weapon | <span style="background-color: #AADFA5"> Ecuador 🇪🇨 </span> | <span style="background-color: #AADFA5"> Mozambique 🇲🇿 </span>| <span style="background-color: #AADFA5"> Eswatini 🇸🇿 </span> |
+| Black band | <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹 </span> | <span style="background-color: #FFE143"> Angola 🇦🇴 ⭐️ </span> | <span style="background-color: #AADFA5"> Kenya 🇰🇪 </span> |
+| 1 star | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> | <span style="background-color: #AADFA5"> Liberia 🇱🇷 </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 725
+
+| # 725        | Africa    | Red band     | White band |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Country: Island | <span style="background-color: #AADFA5"> Comoros 🇰🇲 </span> | <span style="background-color: #AADFA5"> Mauritius 🇲🇺 </span>| <span style="background-color: #AADFA5"> Madagascar 🇲🇬 </span> |
+| Main colour: Blue | <span style="background-color: #AADFA5"> Botswana 🇧🇼 </span> | <span style="background-color: #AADFA5"> Democratic Republic Of The Congo 🇨🇩 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span> |
+| Star colour: yellow | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> | <span style="background-color: #AADFA5"> Ethiopia 🇪🇹 </span> | <span style="background-color: #FFE143"> Cape Verde 🇨🇻 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 716
 
