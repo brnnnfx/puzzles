@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 727](#flagdoku--727)
   - [Flagdoku # 726](#flagdoku--726)
   - [Flagdoku # 725](#flagdoku--725)
   - [Flagdoku # 716](#flagdoku--716)
@@ -71,12 +72,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 61 / 718
-- Flag of the day found: 49 / 718
+- Completed Puzzles: 62 / 719
+- Flag of the day found: 50 / 719
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 727
+
+| # 727        | Red band    | Country: has sea     | Centered |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Weapon | <span style="background-color: #FFE143"> Turkey 🇹🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span>| <span style="background-color: #AADFA5"> China 🇨🇳 </span> |
+| Black band | <span style="background-color: #AADFA5"> Tunisia 🇹🇳 </span> | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> | <span style="background-color: #AADFA5"> Turkmenistan 🇹🇲 </span> |
+| 1 star | <span style="background-color: #AADFA5"> Saudi Arabia 🇸🇦 </span> | <span style="background-color: #AADFA5"> Germany 🇩🇪 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 726
 
