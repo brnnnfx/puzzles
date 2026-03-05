@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 728](#flagdoku--728)
   - [Flagdoku # 727](#flagdoku--727)
   - [Flagdoku # 726](#flagdoku--726)
   - [Flagdoku # 725](#flagdoku--725)
@@ -72,12 +73,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 62 / 719
-- Flag of the day found: 50 / 719
+- Completed Puzzles: 63 / 728
+- Flag of the day found: 51 / 728
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 728
+
+| # 728        | Red   | White     | Blue |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| European: Non-EU | <span style="background-color: #AADFA5"> Belarus 🇧🇾 </span> | <span style="background-color: #AADFA5"> Georgia 🇬🇪 </span>| <span style="background-color: #AADFA5"> Armenia 🇦🇲 </span> |
+| Name has 'w' | <span style="background-color: #AADFA5"> Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 </span> | <span style="background-color: #AADFA5"> Zimbabwe 🇿🇼 </span> | <span style="background-color: #AADFA5"> Eswatini 🇸🇿 </span> |
+| Nordic cross | <span style="background-color: #FFE143"> Norway 🇳🇴 ⭐️ </span> | <span style="background-color: #AADFA5"> Iceland 🇮🇸 </span> | <span style="background-color: #AADFA5"> Sweden 🇸🇪 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 727
 
