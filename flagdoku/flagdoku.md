@@ -83,11 +83,11 @@ Table of contents
 
 ### Flagdoku # 729
 
-| # 729        | Red   | White     | Blue |
+| # 729        | Yellow inside  | Red-yellow only     | Red, yellow |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| European: Non-EU | <span style="background-color: #AADFA5"> Belarus 🇧🇾 </span> | <span style="background-color: #AADFA5"> Georgia 🇬🇪 </span>| <span style="background-color: #AADFA5"> Armenia 🇦🇲 </span> |
-| Name has 'w' | <span style="background-color: #AADFA5"> Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 </span> | <span style="background-color: #AADFA5"> Zimbabwe 🇿🇼 </span> | <span style="background-color: #AADFA5"> Eswatini 🇸🇿 </span> |
-| Nordic cross | <span style="background-color: #FFE143"> Norway 🇳🇴 ⭐️ </span> | <span style="background-color: #AADFA5"> Iceland 🇮🇸 </span> | <span style="background-color: #AADFA5"> Sweden 🇸🇪 </span> |
+| Asia | <span style="background-color: #AADFA5"> Philippines 🇵🇭 </span> | <span style="background-color: #AADFA5"> Kyrgyzstan 🇰🇬 </span>| <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span> |
+| No bands | <span style="background-color: #AADFA5"> Palau 🇵🇼 </span> | <span style="background-color: #FFE143"> China 🇨🇳 ⭐️ </span> | <span style="background-color: #AADFA5"> North Macedonia 🇲🇰 </span> |
+| With star(s) | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> | <span style="background-color: #AADFA5"> Vietnam 🇻🇳 </span> | <span style="background-color: #AADFA5"> Togo 🇹🇬 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes

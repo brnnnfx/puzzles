@@ -1,5 +1,17 @@
 [
   {
+    "order": "729",
+    "row1col1": { "name": "Philippines", "status": "w" },
+    "row1col2": { "name": "Kyrgyzstan", "status": "w" },
+    "row1col3": { "name": "Myanmar", "status": "w" },
+    "row2col1": { "name": "Palau", "status": "w" },
+    "row2col2": { "name": "China", "status": "w" },
+    "row2col3": { "name": "North Macedonia", "status": "w" },
+    "row3col1": { "name": "Papua New Guinea", "status": "w" },
+    "row3col2": { "name": "Vietnam", "status": "w" },
+    "row3col3": { "name": "Togo", "status": "w" }
+  },
+  {
     "order": "728",
     "row1col1": { "name": "Belarus", "status": "w" },
     "row1col2": { "name": "Georgia", "status": "w" },
