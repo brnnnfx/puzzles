@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 730](#flagdoku--730)
   - [Flagdoku # 729](#flagdoku--729)
   - [Flagdoku # 728](#flagdoku--728)
   - [Flagdoku # 727](#flagdoku--727)
@@ -74,12 +75,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 63 / 729
-- Flag of the day found: 51 / 729
+- Completed Puzzles: 64 / 730
+- Flag of the day found: 52 / 730
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 730
+
+| # 730        | Animal  | White band     | Green band |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Ends in 's' | <span style="background-color: #AADFA5"> Falkland Islands 🇫🇰  </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span>| <span style="background-color: #AADFA5"> Saint Vincent and the Grenadines 🇻🇨 </span> |
+| Europe | <span style="background-color: #AADFA5"> Moldova 🇲🇩 </span> | <span style="background-color: #AADFA5"> Luxembourg 🇱🇺 </span> | <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
+| Language: English | <span style="background-color: #AADFA5"> Bermuda 🇧🇲 </span> | <span style="background-color: #AADFA5"> United Kingdom 🇬🇧 </span> | <span style="background-color: #FFE143"> Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
 
 ### Flagdoku # 729
 
