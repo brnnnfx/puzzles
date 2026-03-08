@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 731](#flagdoku--731)
   - [Flagdoku # 730](#flagdoku--730)
   - [Flagdoku # 729](#flagdoku--729)
   - [Flagdoku # 728](#flagdoku--728)
@@ -75,12 +76,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 64 / 730
-- Flag of the day found: 52 / 730
+- Completed Puzzles: 65 / 731
+- Flag of the day found: 53 / 731
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 731
+
+| # 731        | Red  | Yellow     | With star(s) |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: Dutch | <span style="background-color: #AADFA5"> Netherlands 🇳🇱  </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span>| <span style="background-color: #AADFA5"> Curaçao 🇨🇼  </span> |
+| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> |
+| Main colour: green | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 730
 
