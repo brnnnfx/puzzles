@@ -5,6 +5,10 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 735](#flagdoku--735)
+  - [Flagdoku # 734](#flagdoku--734)
+  - [Flagdoku # 733](#flagdoku--733)
+  - [Flagdoku # 732](#flagdoku--732)
   - [Flagdoku # 731](#flagdoku--731)
   - [Flagdoku # 730](#flagdoku--730)
   - [Flagdoku # 729](#flagdoku--729)
@@ -76,12 +80,60 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 65 / 731
-- Flag of the day found: 53 / 731
+- Completed Puzzles: 69 / 735
+- Flag of the day found: 57 / 735
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 735
+
+| # 735        | Yellow  | Africa   | No blue |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Country: Landlocked | <span style="background-color: #AADFA5"> Moldova 🇲🇩  </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span>| <span style="background-color: #AADFA5"> Burundi 🇧🇮  </span> |
+| Top 30: Camels | <span style="background-color: #AADFA5"> Chad 🇹🇩 </span> | <span style="background-color: #FFE143"> Mali 🇲🇱 ⭐️ </span> | <span style="background-color: #AADFA5"> Kenya 🇰🇪 </span> |
+| All bands: vertical | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #AADFA5"> Malta 🇲🇹 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 734
+
+| # 734        | Language: Spanish  | Name: 5 letters     | Red band |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| White band | <span style="background-color: #AADFA5"> Cuba 🇨🇺  </span> | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span>| <span style="background-color: #AADFA5"> Austria 🇦🇹  </span> |
+| Blue | <span style="background-color: #FFE143"> Equatorial Guinea 🇬🇶  </span> | <span style="background-color: #AADFA5"> Palau 🇵🇼 </span> | <span style="background-color: #AADFA5"> France 🇫🇷 </span> |
+| Star colour: white | <span style="background-color: #AADFA5"> Puerto Rico 🇵🇷 </span> | <span style="background-color: #AADFA5"> Libya 🇱🇾 </span> | <span style="background-color: #AADFA5"> Chile 🇨🇱 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 733
+
+| # 733        | Orange  | Bands only     | Letters, first = last |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Red | <span style="background-color: #AADFA5"> Zambia 🇿🇲  </span> | <span style="background-color: #AADFA5"> Peru 🇵🇪 </span>| <span style="background-color: #AADFA5"> Angola 🇦🇴  </span> |
+| Blue  | <span style="background-color: #FFE143"> Armenia 🇦🇲 ⭐️ </span> | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #AADFA5"> Andorra 🇦🇩 </span> |
+| All bands horizontal | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span> | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> | <span style="background-color: #AADFA5"> Argentina 🇦🇷 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 732
+
+| # 732       | No blue  | Ends with a vowel     | White |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| No touch: green, red | <span style="background-color: #AADFA5"> Italy 🇮🇹  </span> | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span>| <span style="background-color: #AADFA5"> Hungary 🇭🇺  </span> |
+| No touch: white, red  | <span style="background-color: #FFE143"> Bulgaria 🇧🇬 ⭐️ </span> | <span style="background-color: #AADFA5"> Russia 🇷🇺 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> |
+| Triangle at the side | <span style="background-color: #AADFA5"> Timor-Leste 🇹🇱 </span> | <span style="background-color: #AADFA5"> Equatorial Guinea 🇬🇶 </span> | <span style="background-color: #AADFA5"> Cuba 🇨🇺 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
 
 ### Flagdoku # 731
 
