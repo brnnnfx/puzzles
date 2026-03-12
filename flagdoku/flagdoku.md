@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 735](#flagdoku--735)
   - [Flagdoku # 734](#flagdoku--734)
   - [Flagdoku # 733](#flagdoku--733)
   - [Flagdoku # 732](#flagdoku--732)
@@ -79,36 +80,48 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 68 / 734
-- Flag of the day found: 56 / 734
+- Completed Puzzles: 69 / 735
+- Flag of the day found: 57 / 735
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 735
+
+| # 735        | Red  | Yellow     | With star(s) |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Language: Dutch | <span style="background-color: #AADFA5"> Netherlands 🇳🇱  </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span>| <span style="background-color: #AADFA5"> Curaçao 🇨🇼  </span> |
+| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> |
+| Main colour: green | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 734
 
 | # 734        | Red  | Yellow     | With star(s) |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | Language: Dutch | <span style="background-color: #AADFA5"> Netherlands 🇳🇱  </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span>| <span style="background-color: #AADFA5"> Curaçao 🇨🇼  </span> |
-| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> |
+| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷  </span> | <span style="background-color: #AADFA5"> Russia 🇷🇺 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> |
 | Main colour: green | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
-- Difficulty: Easy
+- Difficulty: Medium
 
 ### Flagdoku # 733
 
-| # 733        | Red  | Yellow     | With star(s) |
+| # 733        | No blue  | Ends with a vowel     | White |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Language: Dutch | <span style="background-color: #AADFA5"> Netherlands 🇳🇱  </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span>| <span style="background-color: #AADFA5"> Curaçao 🇨🇼  </span> |
-| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> |
-| Main colour: green | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| No touch: green, red | <span style="background-color: #AADFA5"> Italy 🇮🇹  </span> | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span>| <span style="background-color: #AADFA5"> Hungary 🇭🇺  </span> |
+| No touch: white, red  | <span style="background-color: #FFE143"> Bulgaria 🇧🇬 ⭐️ </span> | <span style="background-color: #AADFA5"> Russia 🇷🇺 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> |
+| Triangle at the side | <span style="background-color: #AADFA5"> Timor-Leste 🇹🇱 </span> | <span style="background-color: #AADFA5"> Equatorial Guinea 🇬🇶 </span> | <span style="background-color: #AADFA5"> Cuba 🇨🇺 </span> |
 
 - Score: 9/9
-- Found flag of the day (⭐️)?: Yes
-- Difficulty: Easy
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
 
 ### Flagdoku # 732
 
