@@ -89,11 +89,11 @@ Table of contents
 
 ### Flagdoku # 735
 
-| # 735        | Red  | Yellow     | With star(s) |
+| # 735        | Yellow  | Africa   | No blue |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Language: Dutch | <span style="background-color: #AADFA5"> Netherlands 🇳🇱  </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span>| <span style="background-color: #AADFA5"> Curaçao 🇨🇼  </span> |
-| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> |
-| Main colour: green | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| Country: Landlocked | <span style="background-color: #AADFA5"> Moldova 🇲🇩  </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span>| <span style="background-color: #AADFA5"> Burundi 🇧🇮  </span> |
+| Top 30: Camels | <span style="background-color: #AADFA5"> Chad 🇹🇩 </span> | <span style="background-color: #FFE143"> Mali 🇲🇱 ⭐️ </span> | <span style="background-color: #AADFA5"> Kenya 🇰🇪 </span> |
+| All bands: vertical | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Guinea 🇬🇳 </span> | <span style="background-color: #AADFA5"> Malta 🇲🇹 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
@@ -101,11 +101,11 @@ Table of contents
 
 ### Flagdoku # 734
 
-| # 734        | Red  | Yellow     | With star(s) |
+| # 734        | Language: Spanish  | Name: 5 letters     | Red band |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Language: Dutch | <span style="background-color: #AADFA5"> Netherlands 🇳🇱  </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span>| <span style="background-color: #AADFA5"> Curaçao 🇨🇼  </span> |
-| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷  </span> | <span style="background-color: #AADFA5"> Russia 🇷🇺 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> |
-| Main colour: green | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| White band | <span style="background-color: #AADFA5"> Cuba 🇨🇺  </span> | <span style="background-color: #AADFA5"> Yemen 🇾🇪 </span>| <span style="background-color: #AADFA5"> Austria 🇦🇹  </span> |
+| Blue | <span style="background-color: #FFE143"> Equatorial Guinea 🇬🇶  </span> | <span style="background-color: #AADFA5"> Palau 🇵🇼 </span> | <span style="background-color: #AADFA5"> France 🇫🇷 </span> |
+| Star colour: white | <span style="background-color: #AADFA5"> Puerto Rico 🇵🇷 </span> | <span style="background-color: #AADFA5"> Libya 🇱🇾 </span> | <span style="background-color: #AADFA5"> Chile 🇨🇱 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
@@ -113,7 +113,19 @@ Table of contents
 
 ### Flagdoku # 733
 
-| # 733        | No blue  | Ends with a vowel     | White |
+| # 733        | Orange  | Bands only     | Letters, first = last |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Red | <span style="background-color: #AADFA5"> Zambia 🇿🇲  </span> | <span style="background-color: #AADFA5"> Peru 🇵🇪 </span>| <span style="background-color: #AADFA5"> Angola 🇦🇴  </span> |
+| Blue  | <span style="background-color: #FFE143"> Armenia 🇦🇲 ⭐️ </span> | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #AADFA5"> Andorra 🇦🇩 </span> |
+| All bands horizontal | <span style="background-color: #AADFA5"> Niger 🇳🇪 </span> | <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> | <span style="background-color: #AADFA5"> Argentina 🇦🇷 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
+### Flagdoku # 732
+
+| # 732       | No blue  | Ends with a vowel     | White |
 | :--------------------| :---------------: | :---------------: | :----------------: |
 | No touch: green, red | <span style="background-color: #AADFA5"> Italy 🇮🇹  </span> | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span>| <span style="background-color: #AADFA5"> Hungary 🇭🇺  </span> |
 | No touch: white, red  | <span style="background-color: #FFE143"> Bulgaria 🇧🇬 ⭐️ </span> | <span style="background-color: #AADFA5"> Russia 🇷🇺 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span> |
@@ -122,18 +134,6 @@ Table of contents
 - Score: 9/9
 - Found flag of the day (⭐️)?: No
 - Difficulty: Medium
-
-### Flagdoku # 732
-
-| # 732        | Red  | Yellow     | With star(s) |
-| :--------------------| :---------------: | :---------------: | :----------------: |
-| Language: Dutch | <span style="background-color: #AADFA5"> Netherlands 🇳🇱  </span> | <span style="background-color: #AADFA5"> Belgium 🇧🇪 </span>| <span style="background-color: #AADFA5"> Curaçao 🇨🇼  </span> |
-| 4+ bands | <span style="background-color: #FFE143"> Suriname 🇸🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> |
-| Main colour: green | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Senegal 🇸🇳 </span> | <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
-
-- Score: 9/9
-- Found flag of the day (⭐️)?: Yes
-- Difficulty: Easy
 
 ### Flagdoku # 731
 
