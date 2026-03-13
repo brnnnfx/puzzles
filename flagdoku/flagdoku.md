@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 736](#flagdoku--736)
   - [Flagdoku # 735](#flagdoku--735)
   - [Flagdoku # 734](#flagdoku--734)
   - [Flagdoku # 733](#flagdoku--733)
@@ -80,12 +81,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 69 / 735
-- Flag of the day found: 57 / 735
+- Completed Puzzles: 70 / 736
+- Flag of the day found: 58 / 736
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 736
+
+| # 736        | First band: white  | Last band: red   | White, red |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| 2 bands | <span style="background-color: #AADFA5"> San Marino 🇸🇲  </span> | <span style="background-color: #AADFA5"> Portugal 🇵🇹 </span>| <span style="background-color: #AADFA5"> Indonesia 🇮🇩  </span> |
+| Europe | <span style="background-color: #AADFA5"> Slovakia 🇸🇰 </span> | <span style="background-color: #AADFA5"> Malta 🇲🇹 </span> | <span style="background-color: #AADFA5"> Austria 🇦🇹 </span> |
+| Bands only | <span style="background-color: #FFE143"> Poland 🇵🇱 ⭐️ </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Monaco 🇲🇨 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 735
 
