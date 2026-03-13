@@ -80,8 +80,8 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 69 / 735
-- Flag of the day found: 57 / 735
+- Completed Puzzles: 70 / 736
+- Flag of the day found: 58 / 736
 
 ----------------------------
 
