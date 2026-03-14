@@ -1,15 +1,15 @@
 [
   {
-    "order": "736",
-    "row1col1": { "name": "San Marino", "status": "w" },
-    "row1col2": { "name": "Portugal", "status": "w" },
-    "row1col3": { "name": "Indonesia", "status": "w" },
-    "row2col1": { "name": "Slovakia", "status": "w" },
-    "row2col2": { "name": "Malta", "status": "w" },
-    "row2col3": { "name": "Austria", "status": "w" },
-    "row3col1": { "name": "Poland", "status": "w" },
-    "row3col2": { "name": "Romania", "status": "w" },
-    "row3col3": { "name": "Monaco", "status": "w" }
+    "order": "737",
+    "row1col1": { "name": "Turkmenistan", "status": "w" },
+    "row1col2": { "name": "Cambodia", "status": "w" },
+    "row1col3": { "name": "Nauru", "status": "w" },
+    "row2col1": { "name": "Portugal", "status": "w" },
+    "row2col2": { "name": "Cape Verde", "status": "w" },
+    "row2col3": { "name": "Angola", "status": "w" },
+    "row3col1": { "name": "Brazil", "status": "w" },
+    "row3col2": { "name": "Belize", "status": "w" },
+    "row3col3": { "name": "Palau", "status": "w" }
   },
   {
     "order": "735",

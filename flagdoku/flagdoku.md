@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 737](#flagdoku--737)
   - [Flagdoku # 736](#flagdoku--736)
   - [Flagdoku # 735](#flagdoku--735)
   - [Flagdoku # 734](#flagdoku--734)
@@ -88,13 +89,25 @@ Table of contents
 
 ## Games
 
+### Flagdoku # 737
+
+| # 737        | Green  | Blue   | Yellow |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| White inside | <span style="background-color: #AADFA5"> Turkmenistan 🇹🇲 </span> | <span style="background-color: #AADFA5"> Cambodia 🇰🇭 </span>| <span style="background-color: #AADFA5"> Nauru 🇳🇷  </span> |
+| Language: Portuguese | <span style="background-color: #AADFA5"> Portugal 🇵🇹 </span> | <span style="background-color: #AADFA5"> Cape Verde 🇨🇻 </span> | <span style="background-color: #AADFA5"> Angola 🇦🇴 </span> |
+| Bands only | <span style="background-color: #FFE143"> Brazil 🇧🇷 ⭐️ </span> | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> | <span style="background-color: #AADFA5"> Palau 🇵🇼 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
+
 ### Flagdoku # 736
 
 | # 736        | First band: white  | Last band: red   | White, red |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| 2 bands | <span style="background-color: #AADFA5"> San Marino 🇸🇲  </span> | <span style="background-color: #AADFA5"> Portugal 🇵🇹 </span>| <span style="background-color: #AADFA5"> Indonesia 🇮🇩  </span> |
+| 2 bands | <span style="background-color: #AADFA5"> San Marino 🇸🇲 </span> | <span style="background-color: #AADFA5"> Portugal 🇵🇹 </span>| <span style="background-color: #AADFA5"> Indonesia 🇮🇩  </span> |
 | Europe | <span style="background-color: #AADFA5"> Slovakia 🇸🇰 </span> | <span style="background-color: #AADFA5"> Malta 🇲🇹 </span> | <span style="background-color: #AADFA5"> Austria 🇦🇹 </span> |
-| Bands only | <span style="background-color: #FFE143"> Poland 🇵🇱 ⭐️ </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Monaco 🇲🇨 </span> |
+| Has a circle | <span style="background-color: #FFE143"> Poland 🇵🇱 ⭐️ </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> | <span style="background-color: #AADFA5"> Monaco 🇲🇨 </span> |
 
 - Score: 9/9
 - Found flag of the day (⭐️)?: Yes
