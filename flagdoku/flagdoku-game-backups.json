@@ -1,5 +1,17 @@
 [
   {
+    "order": "738",
+    "row1col1": { "name": "Comoros", "status": "w" },
+    "row1col2": { "name": "Guyana", "status": "w" },
+    "row1col3": { "name": "Bahamas", "status": "w" },
+    "row2col1": { "name": "Mauritius", "status": "w" },
+    "row2col2": { "name": "Malta", "status": "w" },
+    "row2col3": { "name": "Bermuda", "status": "w" },
+    "row3col1": { "name": "Puerto Rico", "status": "w" },
+    "row3col2": { "name": "Samoa", "status": "w" },
+    "row3col3": { "name": "Cuba", "status": "w" }
+  },
+  {
     "order": "737",
     "row1col1": { "name": "Turkmenistan", "status": "w" },
     "row1col2": { "name": "Cambodia", "status": "w" },
