@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 738](#flagdoku--738)
   - [Flagdoku # 737](#flagdoku--737)
   - [Flagdoku # 736](#flagdoku--736)
   - [Flagdoku # 735](#flagdoku--735)
@@ -82,12 +83,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 70 / 736
-- Flag of the day found: 58 / 736
+- Completed Puzzles: 71 / 738
+- Flag of the day found: 59 / 738
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 738
+
+| # 738        | 4 bands of more  | Name without 'i'   | North America |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Triangle at the side | <span style="background-color: #AADFA5"> Comoros 🇰🇲 </span> | <span style="background-color: #AADFA5"> Guyana 🇬🇾 </span>| <span style="background-color: #AADFA5"> Bahamas 🇧🇸 </span> |
+| Island | <span style="background-color: #AADFA5"> Mauritius 🇲🇺 </span> | <span style="background-color: #AADFA5"> Malta 🇲🇹 </span> | <span style="background-color: #AADFA5"> Bermuda 🇧🇲 </span> |
+| Blue-white-red only | <span style="background-color: #AADFA5"> Puerto Rico 🇵🇷 </span> | <span style="background-color: #AADFA5"> Samoa 🇼🇸 </span> | <span style="background-color: #FFE143"> Cuba 🇨🇺 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 737
 
