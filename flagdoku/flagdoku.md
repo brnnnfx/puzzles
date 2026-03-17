@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 740](#flagdoku--740)
   - [Flagdoku # 738](#flagdoku--738)
   - [Flagdoku # 737](#flagdoku--737)
   - [Flagdoku # 736](#flagdoku--736)
@@ -83,12 +84,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 71 / 738
-- Flag of the day found: 59 / 738
+- Completed Puzzles: 72 / 740
+- Flag of the day found: 60 / 740
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 740
+
+| # 740       | Europe  | Blue   | No black |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Large white cross | <span style="background-color: #AADFA5"> Denmark 🇩🇰 </span> | <span style="background-color: #FFE143"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ⭐️ </span>| <span style="background-color: #AADFA5"> Norway 🇳🇴 </span> |
+| Capital has 'E' | <span style="background-color: #AADFA5"> Iceland 🇮🇸 </span> | <span style="background-color: #AADFA5"> Luxembourg 🇱🇺 </span> | <span style="background-color: #AADFA5"> Uzbekistan 🇺🇿 </span> |
+| All bands: Diagonal | <span style="background-color: #AADFA5"> Jersey 🇯🇪 </span> | <span style="background-color: #AADFA5"> Tanzania 🇹🇿 </span> | <span style="background-color: #AADFA5"> French Guiana 🇬🇫 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 738
 
