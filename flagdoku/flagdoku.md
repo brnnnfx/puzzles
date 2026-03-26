@@ -5,6 +5,9 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 749](#flagdoku--749)
+  - [Flagdoku # 748](#flagdoku--748)
+  - [Flagdoku # 747](#flagdoku--747)
   - [Flagdoku # 740](#flagdoku--740)
   - [Flagdoku # 738](#flagdoku--738)
   - [Flagdoku # 737](#flagdoku--737)
@@ -84,12 +87,48 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 72 / 740
-- Flag of the day found: 60 / 740
+- Completed Puzzles: 75 / 749
+- Flag of the day found: 63 / 749
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 749
+
+| # 749       | White, red  | White band   | Red band |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Non-winged animal | <span style="background-color: #AADFA5"> Bermuda 🇧🇲 </span> | <span style="background-color: #FFE143"> Croatia 🇭🇷 ⭐️ </span>| <span style="background-color: #AADFA5"> Spain 🇪🇸 </span> |
+| Blue, yellow | <span style="background-color: #AADFA5"> Seychelles 🇸🇨 </span> | <span style="background-color: #AADFA5"> Central African Republic 🇨🇫 </span> | <span style="background-color: #AADFA5"> Romania 🇷🇴 </span> |
+| Country: Balkan | <span style="background-color: #AADFA5"> Slovenia 🇸🇮 </span> | <span style="background-color: #AADFA5"> Bulgaria 🇧🇬 </span> | <span style="background-color: #AADFA5"> Serbia 🇷🇸 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
+
+### Flagdoku # 748
+
+| # 748       | Red  | Blue   | 3 colours |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Same letter thrice | <span style="background-color: #AADFA5"> Canada 🇨🇦 </span> | <span style="background-color: #AADFA5"> American Samoa 🇦🇸 </span>| <span style="background-color: #AADFA5"> Trinidad and Tobago 🇹🇹 </span> |
+| Central America | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span> | <span style="background-color: #AADFA5"> El Salvador 🇸🇻 </span> | <span style="background-color: #AADFA5"> Costa Rica 🇨🇷 </span> |
+| Multicolour star(s) | <span style="background-color: #AADFA5"> Ethiopia 🇪🇹 </span> | <span style="background-color: #AADFA5"> New Zealand 🇳🇿 </span> | <span style="background-color: #FFE143"> Panama 🇵🇦 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Hard
+
+### Flagdoku # 747
+
+| # 747      | White  | Red   | Green |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Starts with 'L' | <span style="background-color: #AADFA5"> Latvia 🇱🇻 </span> | <span style="background-color: #AADFA5"> Laos 🇱🇦 </span>| <span style="background-color: #AADFA5"> Lithuania 🇱🇹 </span> |
+| Best food | <span style="background-color: #AADFA5"> France 🇫🇷 </span> | <span style="background-color: #AADFA5"> Mexico 🇲🇽 </span> | <span style="background-color: #AADFA5"> Italy 🇮🇹 </span> |
+| 3 colours: no blue | <span style="background-color: #AADFA5"> Ivory Coast 🇨🇮 </span> | <span style="background-color: #AADFA5"> Algeria 🇩🇿 </span> | <span style="background-color: #FFE143"> Lebanon 🇱🇧 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 740
 

@@ -1,5 +1,41 @@
 [
   {
+    "order": "749",
+    "row1col1": { "name": "Bermuda", "status": "w" },
+    "row1col2": { "name": "Croatia", "status": "w" },
+    "row1col3": { "name": "Spain", "status": "w" },
+    "row2col1": { "name": "Seychelles", "status": "w" },
+    "row2col2": { "name": "Central African Republic", "status": "w" },
+    "row2col3": { "name": "Romania", "status": "w" },
+    "row3col1": { "name": "Slovenia", "status": "w" },
+    "row3col2": { "name": "Bulgaria", "status": "w" },
+    "row3col3": { "name": "Serbia", "status": "w" }
+  },
+  {
+    "order": "748",
+    "row1col1": { "name": "Canada", "status": "w" },
+    "row1col2": { "name": "American Samoa", "status": "w" },
+    "row1col3": { "name": "Trinidad and Tobago", "status": "w" },
+    "row2col1": { "name": "Belize", "status": "w" },
+    "row2col2": { "name": "El Salvador", "status": "w" },
+    "row2col3": { "name": "Costa Rica", "status": "w" },
+    "row3col1": { "name": "Ethiopia", "status": "w" },
+    "row3col2": { "name": "New Zealand", "status": "w" },
+    "row3col3": { "name": "Panama", "status": "w" }
+  },
+  {
+    "order": "747",
+    "row1col1": { "name": "Latvia", "status": "w" },
+    "row1col2": { "name": "Laos", "status": "w" },
+    "row1col3": { "name": "Lithuania", "status": "w" },
+    "row2col1": { "name": "France", "status": "w" },
+    "row2col2": { "name": "Mexico", "status": "w" },
+    "row2col3": { "name": "Italy", "status": "w" },
+    "row3col1": { "name": "Ivory Coast", "status": "w" },
+    "row3col2": { "name": "Algeria", "status": "w" },
+    "row3col3": { "name": "Lebanon", "status": "w" }
+  },
+  {
     "order": "740",
     "row1col1": { "name": "Denmark", "status": "w" },
     "row1col2": { "name": "Scotland", "status": "w" },
