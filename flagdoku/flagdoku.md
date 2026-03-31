@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 754](#flagdoku--754)
   - [Flagdoku # 749](#flagdoku--749)
   - [Flagdoku # 748](#flagdoku--748)
   - [Flagdoku # 747](#flagdoku--747)
@@ -87,12 +88,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 75 / 749
-- Flag of the day found: 63 / 749
+- Completed Puzzles: 76 / 754
+- Flag of the day found: 64 / 754
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 754
+
+| # 754       | Bands only  | White, red   | Name ends in -ia |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Green | <span style="background-color: #AADFA5"> Nigeria 🇳🇬 </span> | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span>| <span style="background-color: #AADFA5"> Mauritania 🇲🇷 </span> |
+| Green band | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> | <span style="background-color: #AADFA5"> Italy 🇮🇹 </span> | <span style="background-color: #AADFA5"> Syria 🇸🇾 </span> |
+| Less than 33% green | <span style="background-color: #AADFA5"> Sierra Leone 🇸🇱 </span> | <span style="background-color: #FFE143"> Bulgaria 🇧🇬 ⭐️ </span> | <span style="background-color: #AADFA5"> Ethiopia 🇪🇹 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 749
 

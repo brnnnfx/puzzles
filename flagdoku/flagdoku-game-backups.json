@@ -1,5 +1,17 @@
 [
   {
+    "order": "754",
+    "row1col1": { "name": "Nigeria", "status": "w" },
+    "row1col2": { "name": "Dominica", "status": "w" },
+    "row1col3": { "name": "Mauritania", "status": "w" },
+    "row2col1": { "name": "Bolivia", "status": "w" },
+    "row2col2": { "name": "Italy", "status": "w" },
+    "row2col3": { "name": "Syria", "status": "w" },
+    "row3col1": { "name": "Sierra Leone", "status": "w" },
+    "row3col2": { "name": "Bulgaria", "status": "w" },
+    "row3col3": { "name": "Ethiopia", "status": "w" }
+  },
+  {
     "order": "749",
     "row1col1": { "name": "Bermuda", "status": "w" },
     "row1col2": { "name": "Croatia", "status": "w" },
