@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 757](#flagdoku--757)
   - [Flagdoku # 754](#flagdoku--754)
   - [Flagdoku # 749](#flagdoku--749)
   - [Flagdoku # 748](#flagdoku--748)
@@ -88,12 +89,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 76 / 754
-- Flag of the day found: 64 / 754
+- Completed Puzzles: 77 / 757
+- Flag of the day found: 65 / 757
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 757
+
+| # 757       | White, red  | White band   | Red band |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Non-winged animal | <span style="background-color: #AADFA5"> United States 🇺🇸 </span> | <span style="background-color: #AADFA5"> Kosovo 🇽🇰 </span>| <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> |
+| Blue, yellow | <span style="background-color: #AADFA5"> Bulgaria 🇧🇬 </span> | <span style="background-color: #FFE143"> Bosnia and Herzegovina 🇧🇦 ⭐️ </span> | <span style="background-color: #AADFA5"> Slovenia 🇸🇮 </span> |
+| Country: Balkan | <span style="background-color: #AADFA5"> Cuba 🇨🇺 </span> | <span style="background-color: #AADFA5"> Somalia 🇸🇴 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Moderate
 
 ### Flagdoku # 754
 
