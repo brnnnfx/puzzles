@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 759](#flagdoku--759)
   - [Flagdoku # 757](#flagdoku--757)
   - [Flagdoku # 754](#flagdoku--754)
   - [Flagdoku # 749](#flagdoku--749)
@@ -95,6 +96,18 @@ Table of contents
 ----------------------------
 
 ## Games
+
+### Flagdoku # 759
+
+| # 759       | Text  | Weapon   | Human figure |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Land| <span style="background-color: #B2797A"> - </span> | <span style="background-color: #AADFA5"> Ecuador 🇪🇨 </span>| <span style="background-color: #B2797A"> - </span> |
+| Waves / zigzag | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #B2797A"> - </span> |
+| Plant | <span style="background-color: #AADFA5"> Malta 🇲🇹</span> | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #FFE143"> Belize 🇧🇿 ⭐️ </span> |
+
+- Score: 3/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Extreme
 
 ### Flagdoku # 757
 
