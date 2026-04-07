@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 761](#flagdoku--761)
   - [Flagdoku # 759](#flagdoku--759)
   - [Flagdoku # 757](#flagdoku--757)
   - [Flagdoku # 754](#flagdoku--754)
@@ -90,20 +91,32 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 77 / 757
-- Flag of the day found: 65 / 757
+- Completed Puzzles: 79 / 761
+- Flag of the day found: 67 / 761
 
 ----------------------------
 
 ## Games
 
+### Flagdoku # 761
+
+| # 761       | Green  | No white   | No blue |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Starts with 'B' | <span style="background-color: #AADFA5"> Bolivia 🇧🇴 </span> | <span style="background-color: #AADFA5"> Burkina Faso 🇧🇫 </span>| <span style="background-color: #AADFA5"> Burundi 🇧🇮 </span> |
+| Red (no band) / zigzag | <span style="background-color: #FFE143"> Bangladesh 🇧🇩 ⭐️ </span> | <span style="background-color: #AADFA5"> China 🇨🇳 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> |
+| Asia | <span style="background-color: #AADFA5"> Macau 🇲🇴 </span> | <span style="background-color: #AADFA5"> Kazakhstan 🇰🇿 </span> | <span style="background-color: #AADFA5"> Vietnam 🇻🇳 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
+
 ### Flagdoku # 759
 
 | # 759       | Text  | Weapon   | Human figure |
 | :--------------------| :---------------: | :---------------: | :----------------: |
-| Land| <span style="background-color: #B2797A"> - </span> | <span style="background-color: #AADFA5"> Ecuador 🇪🇨 </span>| <span style="background-color: #B2797A"> - </span> |
+| Land | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #AADFA5"> Ecuador 🇪🇨 </span>| <span style="background-color: #B2797A"> - </span> |
 | Waves / zigzag | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #B2797A"> - </span> |
-| Plant | <span style="background-color: #AADFA5"> Malta 🇲🇹</span> | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #FFE143"> Belize 🇧🇿 ⭐️ </span> |
+| Plant | <span style="background-color: #AADFA5"> Malta 🇲🇹 </span> | <span style="background-color: #B2797A"> - </span> | <span style="background-color: #FFE143"> Belize 🇧🇿 ⭐️ </span> |
 
 - Score: 3/9
 - Found flag of the day (⭐️)?: Yes

@@ -1,5 +1,17 @@
 [
   {
+    "order": "761",
+    "row1col1": { "name": "Bolivia", "status": "w" },
+    "row1col2": { "name": "Burkina Faso", "status": "w" },
+    "row1col3": { "name": "Burundi", "status": "w" },
+    "row2col1": { "name": "Bangladesh", "status": "w" },
+    "row2col2": { "name": "China", "status": "w" },
+    "row2col3": { "name": "Japan", "status": "w" },
+    "row3col1": { "name": "[CHI] Macau", "status": "w" },
+    "row3col2": { "name": "Kazakhstan", "status": "w" },
+    "row3col3": { "name": "Vietnam", "status": "w" }
+  },
+  {
     "order": "759",
     "row1col1": "",
     "row1col2": { "name": "Ecuador", "status": "w" },
