@@ -1,5 +1,17 @@
 [
   {
+    "order": "762",
+    "row1col1": { "name": "Papua New Guinea", "status": "w" },
+    "row1col2": { "name": "Marshall Islands", "status": "w" },
+    "row1col3": { "name": "Liberia", "status": "w" },
+    "row2col1": { "name": "Singapore", "status": "w" },
+    "row2col2": { "name": "Uzbekistan", "status": "w" },
+    "row2col3": { "name": "Togo", "status": "w" },
+    "row3col1": { "name": "[CHI] Hong Kong", "status": "w" },
+    "row3col2": { "name": "New Zealand", "status": "w" },
+    "row3col3": { "name": "Aruba", "status": "w" }
+  },
+  {
     "order": "761",
     "row1col1": { "name": "Bolivia", "status": "w" },
     "row1col2": { "name": "Burkina Faso", "status": "w" },
