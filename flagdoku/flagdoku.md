@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 762](#flagdoku--762)
   - [Flagdoku # 761](#flagdoku--761)
   - [Flagdoku # 759](#flagdoku--759)
   - [Flagdoku # 757](#flagdoku--757)
@@ -91,12 +92,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 79 / 761
-- Flag of the day found: 67 / 761
+- Completed Puzzles: 80 / 762
+- Flag of the day found: 68 / 762
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 762
+
+| # 762       | With star(s)  | Star(s) not centered   | 1 star |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Items not centered | <span style="background-color: #AADFA5"> Papua New Guinea 🇵🇬 </span> | <span style="background-color: #AADFA5"> Marshall Islands 🇲🇭 </span>| <span style="background-color: #AADFA5"> Liberia 🇱🇷 </span> |
+| Star colour: white | <span style="background-color: #AADFA5"> Singapore 🇸🇬 </span> | <span style="background-color: #AADFA5"> Uzbekistan 🇺🇿 </span> | <span style="background-color: #AADFA5"> Togo 🇹🇬 </span> |
+| Star colour: Red | <span style="background-color: #AADFA5"> Hong Kong 🇭🇰 </span> | <span style="background-color: #AADFA5"> New Zealand 🇳🇿 </span> | <span style="background-color: #FFE143"> Aruba 🇦🇼 ⭐️ </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 761
 
