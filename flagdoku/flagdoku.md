@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 770](#flagdoku--770)
   - [Flagdoku # 762](#flagdoku--762)
   - [Flagdoku # 761](#flagdoku--761)
   - [Flagdoku # 759](#flagdoku--759)
@@ -98,6 +99,18 @@ Table of contents
 ----------------------------
 
 ## Games
+
+### Flagdoku # 770
+
+| # 770       | Main Color: Blue  | Centered   | White |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Land | <span style="background-color: #AADFA5"> Saint Lucia 🇱🇨 </span> | <span style="background-color: #AADFA5"> Belize 🇧🇿 </span>| <span style="background-color: #AADFA5"> Ecuador 🇪🇨 </span> |
+| 2 colours | <span style="background-color: #AADFA5"> Palau 🇵🇼 </span> | <span style="background-color: #AADFA5"> Canada 🇨🇦 </span> | <span style="background-color: #AADFA5"> Pakistan 🇵🇰 </span> |
+| No red | <span style="background-color: #AADFA5"> Barbados 🇧🇧 </span> | <span style="background-color: #AADFA5"> Honduras 🇭🇳 </span> | <span style="background-color: #AADFA5"> Finland 🇫🇮 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: No
+- Difficulty: Medium
 
 ### Flagdoku # 762
 
