@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 771](#flagdoku--771)
   - [Flagdoku # 770](#flagdoku--770)
   - [Flagdoku # 762](#flagdoku--762)
   - [Flagdoku # 761](#flagdoku--761)
@@ -99,6 +100,18 @@ Table of contents
 ----------------------------
 
 ## Games
+
+### Flagdoku # 771
+
+| # 771       | Not 3 colours  | Not 4 colours   | Not 5 colours |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Animal, blue | <span style="background-color: #AADFA5"> Bermuda 🇧🇲 </span> | <span style="background-color: #AADFA5"> Croatia 🇭🇷 </span>| <span style="background-color: #FFE143"> Kazakhstan 🇰🇿 ⭐️ </span> |
+| Animal, yellow | <span style="background-color: #AADFA5"> Zimbabwe 🇿🇼 </span> | <span style="background-color: #AADFA5"> Dominica 🇩🇲 </span> | <span style="background-color: #AADFA5"> Bhutan 🇧🇹 </span> |
+| Sun | <span style="background-color: #AADFA5"> Kiribati 🇰🇮 </span> | <span style="background-color: #AADFA5"> Bangladesh 🇧🇩 </span> | <span style="background-color: #AADFA5"> Japan 🇯🇵 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 770
 
