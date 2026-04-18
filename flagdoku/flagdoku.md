@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 772](#flagdoku--772)
   - [Flagdoku # 771](#flagdoku--771)
   - [Flagdoku # 770](#flagdoku--770)
   - [Flagdoku # 762](#flagdoku--762)
@@ -94,12 +95,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 80 / 762
-- Flag of the day found: 68 / 762
+- Completed Puzzles: 82 / 772
+- Flag of the day found: 71 / 772
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 772
+
+| # 772       | Red  | Blue   | White |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| World chess champion | <span style="background-color: #FFE143"> Norway 🇳🇴 ⭐️ </span> | <span style="background-color: #AADFA5"> Russia 🇷🇺 </span>| <span style="background-color: #AADFA5"> United States 🇺🇸  </span> |
+| European: Non-EU | <span style="background-color: #AADFA5"> Switzerland 🇨🇭 </span> | <span style="background-color: #AADFA5"> Ukraine 🇺🇦 </span> | <span style="background-color: #AADFA5"> Turkey 🇹🇷 </span> |
+| Top 30: Oil | <span style="background-color: #AADFA5"> Canada 🇨🇦 </span> | <span style="background-color: #AADFA5"> Venezuela 🇻🇪 </span> | <span style="background-color: #AADFA5"> Iraq 🇮🇶 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Medium
 
 ### Flagdoku # 771
 
