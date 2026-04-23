@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 777](#flagdoku--777)
   - [Flagdoku # 772](#flagdoku--772)
   - [Flagdoku # 771](#flagdoku--771)
   - [Flagdoku # 770](#flagdoku--770)
@@ -95,12 +96,24 @@ Table of contents
 
 ## My stats
 - My Average 8 / 9
-- Completed Puzzles: 82 / 772
-- Flag of the day found: 71 / 772
+- Completed Puzzles: 83 / 777
+- Flag of the day found: 72 / 777
 
 ----------------------------
 
 ## Games
+
+### Flagdoku # 777
+
+| # 777       | No blue  | White   | No yellow |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Name: 7 letters | <span style="background-color: #AADFA5"> Georgia 🇬🇪 </span> | <span style="background-color: #AADFA5"> Myanmar 🇲🇲 </span>| <span style="background-color: #AADFA5"> England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </span> |
+| Top 7: Europe beer | <span style="background-color: #AADFA5"> Austria 🇦🇹 </span> | <span style="background-color: #AADFA5"> Croatia 🇭🇷 </span> | <span style="background-color: #AADFA5"> Czech Republic 🇨🇿 </span> |
+| 7 Celtic nations | <span style="background-color: #FFE143"> Ireland 🇮🇪 ⭐️</span> | <span style="background-color: #AADFA5"> Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 </span> | <span style="background-color: #AADFA5"> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 772
 
