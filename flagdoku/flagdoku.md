@@ -5,6 +5,7 @@ Table of contents
 <!-- Links to these sections -->
 - [My stats](#my-stats)
 - [Games](#games)
+  - [Flagdoku # 779](#flagdoku--779)
   - [Flagdoku # 777](#flagdoku--777)
   - [Flagdoku # 772](#flagdoku--772)
   - [Flagdoku # 771](#flagdoku--771)
@@ -102,6 +103,18 @@ Table of contents
 ----------------------------
 
 ## Games
+
+### Flagdoku # 779
+
+| # 779      | No cross  | Green   | Asia |
+| :--------------------| :---------------: | :---------------: | :----------------: |
+| Monarchy | <span style="background-color: #AADFA5"> Bhutan 🇧🇹 </span> | <span style="background-color: #AADFA5"> Jordan 🇯🇴 </span>| <span style="background-color: #AADFA5"> Thailand 🇹🇭 </span> |
+| Weapon | <span style="background-color: #AADFA5"> Angola 🇦🇴 </span> | <span style="background-color: #AADFA5"> Mozambique 🇲🇿 </span> | <span style="background-color: #AADFA5"> Saudi Arabia 🇸🇦 </span> |
+| Main colour: red | <span style="background-color: #AADFA5"> Morocco 🇲🇦 </span> | <span style="background-color: #FFE143"> Oman 🇴🇲 ⭐️ </span> | <span style="background-color: #AADFA5"> Bahrain 🇧🇭 </span> |
+
+- Score: 9/9
+- Found flag of the day (⭐️)?: Yes
+- Difficulty: Easy
 
 ### Flagdoku # 777
 
